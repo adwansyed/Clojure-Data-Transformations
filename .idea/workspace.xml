@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4e571d35-e618-4d39-b3ed-011eb1f32ac6" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="course-listing" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="core.clj" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/course_listing/core.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="task1.clj" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/course_listing/task1.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="23" lean-forward="true" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="task2.clj" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/course_listing/task2.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="36" column="8" lean-forward="false" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="task3.clj" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/course_listing/task3.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="615">
+              <caret line="82" column="8" lean-forward="false" selection-start-line="82" selection-start-column="8" selection-end-line="82" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="csv_helper.clj" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/course_listing/csv_helper.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="project.clj" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="38" lean-forward="false" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Clojure Namespace" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>out</find>
+      <find>data/</find>
+    </findStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$APPLICATION_HOME_DIR$/jdk/Contents/Home/jre/lib/rt.jar!/java/io/PrintWriter.class" />
+        <option value="$PROJECT_DIR$/src/course_listing/core.clj" />
+        <option value="$PROJECT_DIR$/src/course_listing/csv_helper.clj" />
+        <option value="$APPLICATION_HOME_DIR$/jdk/Contents/Home/jre/lib/rt.jar!/java/net/PlainSocketImpl.class" />
+        <option value="$PROJECT_DIR$/project.clj" />
+        <option value="$PROJECT_DIR$/src/course_listing/task1.clj" />
+        <option value="$PROJECT_DIR$/src/course_listing/task2.clj" />
+        <option value="$PROJECT_DIR$/src/course_listing/task3.clj" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="773" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="course-listing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="course-listing" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="course-listing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="course-listing" type="462c0819:PsiDirectoryNode" />
+              <item name="doc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="course-listing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="course-listing" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="course-listing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="course-listing" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="course_listing" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="cursive.last.file.extension./Users/Utility/Projects/course-listing/src" value="clj" />
+  </component>
+  <component name="ReplState" timestamp="1510238671678">{:repl-history {:ide [], :local [{:command &quot;(frequencies [[[\&quot;Christopher Garside\&quot; \&quot;Greg F. Naterer\&quot;] [\&quot;Christopher Garside\&quot; \&quot;Judith A. Grant\&quot;]]\n\t\t\t  [[\&quot;Mary Olaveson\&quot; \&quot;Greg F. Naterer\&quot;] [\&quot;Mary Olaveson\&quot; \&quot;Judith A. Grant\&quot;]]\n\t\t\t  [[\&quot;Christopher Garside\&quot; \&quot;Brian Nixon\&quot;]\n\t\t\t   [\&quot;Christopher Garside\&quot; \&quot;Ilona Kletskin\&quot;]\n\t\t\t   [\&quot;Christopher Garside\&quot; \&quot;Dhavide A. Aruliah\&quot;]]\n\t\t\t  [[\&quot;Mary Olaveson\&quot; \&quot;Brian Nixon\&quot;] [\&quot;Mary Olaveson\&quot; \&quot;Ilona Kletskin\&quot;] [\&quot;Mary Olaveson\&quot; \&quot;Dhavide A. Aruliah\&quot;]]\n\t\t\t  [[\&quot;Christopher Garside\&quot; \&quot;Ali Grami\&quot;]]\n\t\t\t  [[\&quot;Mary Olaveson\&quot; \&quot;Ali Grami\&quot;]]\n\t\t\t  [[\&quot;Douglas Holdway\&quot; \&quot;Ghaus M. Rizvi\&quot;] [\&quot;Douglas Holdway\&quot; \&quot;Brenda Tilley\&quot;]]\n\t\t\t  [[\&quot;Douglas Holdway\&quot; \&quot;Johanna De Boer\&quot;] [\&quot;Douglas Holdway\&quot; \&quot;David C. Magri\&quot;]]\n\t\t\t  [[\&quot;Holly Jones-Taggart\&quot; \&quot;Sean G. Forrester\&quot;] [\&quot;Holly Jones-Taggart\&quot; \&quot;George Platanitis\&quot;]]\n\t\t\t  [[\&quot;Sean G. Forrester\&quot; \&quot;Sean Bohun\&quot;] [\&quot;Sean G. Forrester\&quot; \&quot;Walter Dekeseredy\&quot;]]\n\t\t\t  [[\&quot;Sean G. Forrester\&quot; \&quot;Joseph D. Macmillan\&quot;] [\&quot;Sean G. Forrester\&quot; \&quot;Sasha Baglay\&quot;]]\n\t\t\t  [[\&quot;Sean G. Forrester\&quot; \&quot;Barbara Perry\&quot;]]\n\t\t\t  [[\&quot;Annette Tavares\&quot; \&quot;Marta Chisu\&quot;]]\n\t\t\t  [[\&quot;Marco Belmont\&quot; \&quot;Dario T. Bonetta\&quot;]]\n\t\t\t  [[\&quot;Cecilia Hageman\&quot; \&quot;Janice Strap\&quot;]]\n\t\t\t  [[\&quot;Cecilia Hageman\&quot; \&quot;Stephen Nancoo\&quot;]]\n\t\t\t  [[\&quot;Janice Strap\&quot; \&quot;Reddy Bale\&quot;] [\&quot;Janice Strap\&quot; \&quot;Stephen Nancoo\&quot;]]\n\t\t\t  [[\&quot;Dario T. Bonetta\&quot; \&quot;Paul McGuire\&quot;]]\n\t\t\t  [[\&quot;Carolyn McGregor\&quot; \&quot;Carolyn Wilson\&quot;]]\n\t\t\t  [[\&quot;Patrick Hung\&quot; \&quot;Walter Dekeseredy\&quot;]]\n\t\t\t  [[\&quot;Ali Grami\&quot; \&quot;Dhavide A. Aruliah\&quot;] [\&quot;Ali Grami\&quot; \&quot;Ilona Kletskin\&quot;]]\n\t\t\t  [[\&quot;Ali Grami\&quot; \&quot;John Friedlan\&quot;] [\&quot;Ali Grami\&quot; \&quot;Dilsat Tuna\&quot;]]\n\t\t\t  [[\&quot;Robert Coke\&quot; \&quot;Raymond A. Cox\&quot;]]\n\t\t\t  [[\&quot;John Friedlan\&quot; \&quot;David Valliere\&quot;] [\&quot;John Friedlan\&quot; \&quot;Glenn Harvel\&quot;]]\n\t\t\t  [[\&quot;Zhenfeng Ma\&quot; \&quot;Jay Tashiro\&quot;]]\n\t\t\t  [[\&quot;Jackie Simkin\&quot; \&quot;Tripat Gill\&quot;] [\&quot;Jackie Simkin\&quot; \&quot;Carla Cesaroni\&quot;]]\n\t\t\t  [[\&quot;Raymond A. Cox\&quot; \&quot;Philip Jones\&quot;]]\n\t\t\t  [[\&quot;Johanna De Boer\&quot; \&quot;David C. Magri\&quot;] [\&quot;Johanna De Boer\&quot; \&quot;Christopher Dicarlo\&quot;]]\n\t\t\t  [[\&quot;Johanna De Boer\&quot; \&quot;Paula Di Cato\&quot;]]\n\t\t\t  [[\&quot;Jennifer Percival\&quot; \&quot;Ahmad Barari\&quot;]]\n\t\t\t  [[\&quot;Ferdinand Jones\&quot; \&quot;Walter Dekeseredy\&quot;]]\n\t\t\t  [[\&quot;Chi Ng\&quot; \&quot;Brenda Tilley\&quot;]]\n\t\t\t  [[\&quot;Dilsat Tuna\&quot; \&quot;Brenda Tilley\&quot;]]\n\t\t\t  [[\&quot;Tripat Gill\&quot; \&quot;Greg F. Naterer\&quot;]]\n\t\t\t  [[\&quot;Ying Jiang\&quot; \&quot;Fedor Naumkin\&quot;]]\n\t\t\t  [[\&quot;Raymond A. Cox\&quot; \&quot;Sean Bohun\&quot;]]\n\t\t\t  [[\&quot;Raymond A. Cox\&quot; \&quot;Mark W. Green\&quot;]]\n\t\t\t  [[\&quot;Patrick Hung\&quot; \&quot;Kimberley A. Clow\&quot;]]\n\t\t\t  [[\&quot;Ferdinand Jones\&quot; \&quot;Ruth Milman\&quot;]]\n\t\t\t  [[\&quot;Tripat Gill\&quot; \&quot;Kimberley A. Clow\&quot;]]\n\t\t\t  [[\&quot;Tripat Gill\&quot; \&quot;Shirley L. Smith\&quot;] [\&quot;Tripat Gill\&quot; \&quot;Michael J. Bennett\&quot;]]\n\t\t\t  [[\&quot;Stephen Rose\&quot; \&quot;Christopher Dicarlo\&quot;]]\n\t\t\t  [[\&quot;Jessica L. Clarke\&quot; \&quot;Christopher Dicarlo\&quot;]]\n\t\t\t  [[\&quot;David C. Magri\&quot; \&quot;Alyson King\&quot;]]\n\t\t\t  [[\&quot;David C. Magri\&quot; \&quot;Ghaus M. Rizvi\&quot;] [\&quot;David C. Magri\&quot; \&quot;Sasha Baglay\&quot;]]\n\t\t\t  [[\&quot;Krisztina Paal\&quot; \&quot;Ilona Kletskin\&quot;] [\&quot;Krisztina Paal\&quot; \&quot;Paula Di Cato\&quot;]]\n\t\t\t  [[\&quot;Krisztina Paal\&quot; \&quot;Ron McKelvey\&quot;] [\&quot;Krisztina Paal\&quot; \&quot;Kevin Lowe\&quot;]]\n\t\t\t  [[\&quot;Richard Bartholomew\&quot; \&quot;Sasha Baglay\&quot;] [\&quot;Richard Bartholomew\&quot; \&quot;Kimberley A. Clow\&quot;]]\n\t\t\t  [[\&quot;Richard Bartholomew\&quot; \&quot;Barbara Perry\&quot;]]\n\t\t\t  [[\&quot;Richard Bartholomew\&quot; \&quot;Sasha Baglay\&quot;] [\&quot;Richard Bartholomew\&quot; \&quot;Kimberley A. Clow\&quot;]]\n\t\t\t  [[\&quot;Richard Bartholomew\&quot; \&quot;Barbara Perry\&quot;]]\n\t\t\t  [[\&quot;Shari Forbes\&quot; \&quot;Sandra Montgomery\&quot;] [\&quot;Shari Forbes\&quot; \&quot;Ibrahim Dincer\&quot;]]\n\t\t\t  [[\&quot;Brad Easton\&quot; \&quot;Gregory Lewis\&quot;]]\n\t\t\t  [[\&quot;David C. Magri\&quot; \&quot;Lixuan Lu\&quot;]]\n\t\t\t  [[\&quot;Brian Nixon\&quot; \&quot;Vijay Sood\&quot;]]\n\t\t\t  [[\&quot;Jeremy Bradbury\&quot; \&quot;Robert Lee\&quot;]]\n\t\t\t  [[\&quot;Ruth Milman\&quot; \&quot;Mikael Eklund\&quot;] [\&quot;Ruth Milman\&quot; \&quot;Ilona Kletskin\&quot;] [\&quot;Ruth Milman\&quot; \&quot;Paula Di Cato\&quot;]]\n\t\t\t  [[\&quot;Mark W. Green\&quot; \&quot;Brian Ikeda\&quot;]]\n\t\t\t  [[\&quot;Mark W. Green\&quot; \&quot;Paul McGuire\&quot;]]\n\t\t\t  [[\&quot;Michael J. Bennett\&quot; \&quot;Ying Wang\&quot;]]\n\t\t\t  [[\&quot;Mark W. Green\&quot; \&quot;Molly Dragiewicz\&quot;]]\n\t\t\t  [[\&quot;Mark W. Green\&quot; \&quot;Ying Wang\&quot;]]\n\t\t\t  [[\&quot;Ken Pu\&quot; \&quot;Brad MacIsaac\&quot;]]\n\t\t\t  [[\&quot;Ken Pu\&quot; \&quot;Michael Dymarski\&quot;]]\n\t\t\t  [[\&quot;Stephen Cheung\&quot; \&quot;Ahmad Barari\&quot;]]\n\t\t\t  [[\&quot;Alyson King\&quot; \&quot;Clemens Martin\&quot;] [\&quot;Alyson King\&quot; \&quot;Arshia U. Zaidi\&quot;]]\n\t\t\t  [[\&quot;Alyson King\&quot; \&quot;Ilona Kletskin\&quot;] [\&quot;Alyson King\&quot; \&quot;Dhavide A. Aruliah\&quot;]]\n\t\t\t  [[\&quot;Alyson King\&quot; \&quot;Liesel Knaack\&quot;]]\n\t\t\t  [[\&quot;Alyson King\&quot; \&quot;Ken Pu\&quot;] [\&quot;Alyson King\&quot; \&quot;Michael J. Bennett\&quot;] [\&quot;Alyson King\&quot; \&quot;Mihai Beligan\&quot;]]\n\t\t\t  [[\&quot;Alyson King\&quot; \&quot;Mary Anne O'Leary\&quot;] [\&quot;Alyson King\&quot; \&quot;Mary Anne O'Leary\&quot;]]\n\t\t\t  [[\&quot;Alyson King\&quot; \&quot;Peter Berg\&quot;]]\n\t\t\t  [[\&quot;Alyson King\&quot; \&quot;Robert Lee\&quot;] [\&quot;Alyson King\&quot; \&quot;Robert Lee\&quot;]]\n\t\t\t  [[\&quot;Alyson King\&quot; \&quot;Robert Lee\&quot;]]\n\t\t\t  [[\&quot;Alyson King\&quot; \&quot;Nancy Bergeron\&quot;] [\&quot;Alyson King\&quot; \&quot;Tracey Mackinnon\&quot;]]\n\t\t\t  [[\&quot;Robert Lee\&quot; \&quot;Shahram Shahbazpanahi\&quot;]]\n\t\t\t  [[\&quot;Robert Lee\&quot; \&quot;Francois Desjardins\&quot;]]\n\t\t\t  [[\&quot;Robert Lee\&quot; \&quot;Francois Desjardins\&quot;]]\n\t\t\t  [[\&quot;Kevin Lowe\&quot; \&quot;Shirley Van Nuland\&quot;]]\n\t\t\t  [[\&quot;Kevin Lowe\&quot; \&quot;Shirley Van Nuland\&quot;]]\n\t\t\t  [[\&quot;Kevin Lowe\&quot; \&quot;Shirley Van Nuland\&quot;]]\n\t\t\t  [[\&quot;Shirley Van Nuland\&quot; \&quot;Greg Rohrauer\&quot;]]\n\t\t\t  [[\&quot;Shirley Van Nuland\&quot; \&quot;Yuping He\&quot;]]\n\t\t\t  [[\&quot;Shirley L. Smith\&quot; \&quot;Eleodor M. Nichita\&quot;] [\&quot;Shirley L. Smith\&quot; \&quot;Eleodor M. Nichita\&quot;]]\n\t\t\t  [[\&quot;Sandra Montgomery\&quot; \&quot;Silviu Idita\&quot;]]\n\t\t\t  [[\&quot;Jennifer Laffier\&quot; \&quot;Carla Cesaroni\&quot;]]\n\t\t\t  [[\&quot;Paul McGuire\&quot; \&quot;Kimberly Nugent\&quot;] [\&quot;Paul McGuire\&quot; \&quot;Cecilia Hageman\&quot;]]\n\t\t\t  [[\&quot;Paul McGuire\&quot; \&quot;Barry Neil\&quot;]]\n\t\t\t  [[\&quot;Paul McGuire\&quot; \&quot;Anatoli Chkrebtii\&quot;]]\n\t\t\t  [[\&quot;Ron McKelvey\&quot; \&quot;Ebrahim Esmailzadeh\&quot;]]\n\t\t\t  [[\&quot;Ron McKelvey\&quot; \&quot;Kevin Lowe\&quot;]]\n\t\t\t  [[\&quot;Kevin Lowe\&quot; \&quot;Ron McKelvey\&quot;]]\n\t\t\t  [[\&quot;Ron McKelvey\&quot; \&quot;Kevin Lowe\&quot;]]\n\t\t\t  [[\&quot;Kevin Lowe\&quot; \&quot;Ron McKelvey\&quot;]]\n\t\t\t  [[\&quot;Vijay Sood\&quot; \&quot;Paula Di Cato\&quot;] [\&quot;Vijay Sood\&quot; \&quot;Ilona Kletskin\&quot;]]\n\t\t\t  [[\&quot;Vijay Sood\&quot; \&quot;Joseph D. Macmillan\&quot;]]\n\t\t\t  [[\&quot;Ruth Milman\&quot; \&quot;Mikael Eklund\&quot;] [\&quot;Ruth Milman\&quot; \&quot;Ilona Kletskin\&quot;] [\&quot;Ruth Milman\&quot; \&quot;Paula Di Cato\&quot;]]\n\t\t\t  [[\&quot;Mikael Eklund\&quot; \&quot;Paula Di Cato\&quot;] [\&quot;Mikael Eklund\&quot; \&quot;Ilona Kletskin\&quot;] [\&quot;Mikael Eklund\&quot; \&quot;Arshia U. Zaidi\&quot;]]\n\t\t\t  [[\&quot;Mikael Eklund\&quot; \&quot;Gregory Lewis\&quot;] [\&quot;Mikael Eklund\&quot; \&quot;Gregory Lewis\&quot;] [\&quot;Mikael Eklund\&quot; \&quot;Ruth Milman\&quot;]]\n\t\t\t  [[\&quot;Ghaus M. Rizvi\&quot; \&quot;Jay Tashiro\&quot;] [\&quot;Ghaus M. Rizvi\&quot; \&quot;Kimberley A. Clow\&quot;]]\n\t\t\t  [[\&quot;Ghaus M. Rizvi\&quot; \&quot;Elita Partosoedarso\&quot;]]\n\t\t\t  [[\&quot;Ghaus M. Rizvi\&quot; \&quot;Daved Muttart\&quot;]]\n\t\t\t  [[\&quot;Ahmad Barari\&quot; \&quot;Greg F. Naterer\&quot;]]\n\t\t\t  [[\&quot;Ahmad Barari\&quot; \&quot;Kimberley A. Clow\&quot;]]\n\t\t\t  [[\&quot;Ahmad Barari\&quot; \&quot;John Muise\&quot;]]\n\t\t\t  [[\&quot;Ahmad Barari\&quot; \&quot;Ebrahim Esmailzadeh\&quot;]]\n\t\t\t  [[\&quot;Reddy Bale\&quot; \&quot;Yuping He\&quot;]]\n\t\t\t  [[\&quot;Reddy Bale\&quot; \&quot;Yuping He\&quot;]]\n\t\t\t  [[\&quot;Ramiro Liscano\&quot; \&quot;Scott B. Nokleby\&quot;]]\n\t\t\t  [[\&quot;Ramiro Liscano\&quot; \&quot;George Platanitis\&quot;]]\n\t\t\t  [[\&quot;George Platanitis\&quot; \&quot;Jennifer Silver\&quot;]]\n\t\t\t  [[\&quot;Shahram Shahbazpanahi\&quot; \&quot;Yuping He\&quot;]]\n\t\t\t  [[\&quot;Vinh Quan\&quot; \&quot;Andrei Rotenstein\&quot;]]\n\t\t\t  [[\&quot;George Platanitis\&quot; \&quot;Daved Muttart\&quot;]]\n\t\t\t  [[\&quot;George Platanitis\&quot; \&quot;Daved Muttart\&quot;] [\&quot;George Platanitis\&quot; \&quot;Paula Di Cato\&quot;]]\n\t\t\t  [[\&quot;George Platanitis\&quot; \&quot;Joseph D. Macmillan\&quot;]]\n\t\t\t  [[\&quot;George Platanitis\&quot; \&quot;Walter Dekeseredy\&quot;]]\n\t\t\t  [[\&quot;Yuping He\&quot; \&quot;Ellen Vogel\&quot;]]\n\t\t\t  [[\&quot;Ebrahim Esmailzadeh\&quot; \&quot;Elita Partosoedarso\&quot;] [\&quot;Ebrahim Esmailzadeh\&quot; \&quot;John Muise\&quot;]]\n\t\t\t  [[\&quot;Remon Pop-Iliev\&quot; \&quot;Patrik Olsson\&quot;]]\n\t\t\t  [[\&quot;Ghaus M. Rizvi\&quot; \&quot;Patrik Olsson\&quot;]]\n\t\t\t  [[\&quot;Michael J. Bennett\&quot; \&quot;Brad MacIsaac\&quot;]]\n\t\t\t  [[\&quot;Ken Pu\&quot; \&quot;Brad MacIsaac\&quot;]]\n\t\t\t  [[\&quot;Ken Pu\&quot; \&quot;Michael Dymarski\&quot;]]\n\t\t\t  [[\&quot;Igor Pioro\&quot; \&quot;Mildred Ryan Harshman\&quot;]]\n\t\t\t  [[\&quot;Michael J. Bennett\&quot; \&quot;Ying Wang\&quot;]]\n\t\t\t  [[\&quot;Remon Pop-Iliev\&quot; \&quot;Patrik Olsson\&quot;]]\n\t\t\t  [[\&quot;Marnie Ham\&quot; \&quot;Patrik Olsson\&quot;]]\n\t\t\t  [[\&quot;Remon Pop-Iliev\&quot; \&quot;Patrik Olsson\&quot;]]\n\t\t\t  [[\&quot;Marnie Ham\&quot; \&quot;Patrik Olsson\&quot;]]\n\t\t\t  [[\&quot;Greg Rohrauer\&quot; \&quot;Reddy Bale\&quot;] [\&quot;Greg Rohrauer\&quot; \&quot;Wendy Stanyon\&quot;]]\n\t\t\t  [[\&quot;Ying Wang\&quot; \&quot;Emmanuel Lorin\&quot;]]\n\t\t\t  [[\&quot;Remon Pop-Iliev\&quot; \&quot;Patrik Olsson\&quot;]]\n\t\t\t  [[\&quot;Scott B. Nokleby\&quot; \&quot;Patrik Olsson\&quot;]]\n\t\t\t  [[\&quot;Marnie Ham\&quot; \&quot;George Bereznai\&quot;]\n\t\t\t   [\&quot;Marnie Ham\&quot; \&quot;Werner Fieguth\&quot;]\n\t\t\t   [\&quot;Marnie Ham\&quot; \&quot;Reza Ghafouri\&quot;]\n\t\t\t   [\&quot;Marnie Ham\&quot; \&quot;Rob Gravelsins\&quot;]\n\t\t\t   [\&quot;Marnie Ham\&quot; \&quot;Glenn Harvel\&quot;]\n\t\t\t   [\&quot;Marnie Ham\&quot; \&quot;Brian Ikeda\&quot;]\n\t\t\t   [\&quot;Marnie Ham\&quot; \&quot;Matthew H. Kaye\&quot;]\n\t\t\t   [\&quot;Marnie Ham\&quot; \&quot;Ali Keshavarz\&quot;]\n\t\t\t   [\&quot;Marnie Ham\&quot; \&quot;Lixuan Lu\&quot;]\n\t\t\t   [\&quot;Marnie Ham\&quot; \&quot;Kerry Morrison\&quot;]\n\t\t\t   [\&quot;Marnie Ham\&quot; \&quot;Eleodor M. Nichita\&quot;]\n\t\t\t   [\&quot;Marnie Ham\&quot; \&quot;Igor Pioro\&quot;]\n\t\t\t   [\&quot;Marnie Ham\&quot; \&quot;Benjamin Rouben\&quot;]\n\t\t\t   [\&quot;Marnie Ham\&quot; \&quot;Peter Schwanke\&quot;]\n\t\t\t   [\&quot;Marnie Ham\&quot; \&quot;Anthony Waker\&quot;]\n\t\t\t   [\&quot;Marnie Ham\&quot; \&quot;Edward Waller\&quot;]]\n\t\t\t  [[\&quot;Marnie Ham\&quot; \&quot;Brian Ikeda\&quot;]]\n\t\t\t  [[\&quot;Reddy Bale\&quot; \&quot;Pietro-Luciano Buono\&quot;] [\&quot;Reddy Bale\&quot; \&quot;Sean Bohun\&quot;]]\n\t\t\t  [[\&quot;Kimberly Nugent\&quot; \&quot;Ayush Kumar\&quot;] [\&quot;Kimberly Nugent\&quot; \&quot;Ruth Simpson\&quot;] [\&quot;Kimberly Nugent\&quot; \&quot;Connie Thurber\&quot;]]\n\t\t\t  [[\&quot;Cecilia Hageman\&quot; \&quot;Ayush Kumar\&quot;] [\&quot;Cecilia Hageman\&quot; \&quot;Ruth Simpson\&quot;] [\&quot;Cecilia Hageman\&quot; \&quot;Connie Thurber\&quot;]]\n\t\t\t  [[\&quot;Kimberly Nugent\&quot; \&quot;Molly Dragiewicz\&quot;]]\n\t\t\t  [[\&quot;Cecilia Hageman\&quot; \&quot;Molly Dragiewicz\&quot;]]\n\t\t\t  [[\&quot;Holly Jones-Taggart\&quot; \&quot;Kimberley A. Clow\&quot;] [\&quot;Holly Jones-Taggart\&quot; \&quot;Daved Muttart\&quot;]]\n\t\t\t  [[\&quot;Elita Partosoedarso\&quot; \&quot;Gregory Lewis\&quot;]\n\t\t\t   [\&quot;Elita Partosoedarso\&quot; \&quot;Gregory Lewis\&quot;]\n\t\t\t   [\&quot;Elita Partosoedarso\&quot; \&quot;Gregory Lewis\&quot;]\n\t\t\t   [\&quot;Elita Partosoedarso\&quot; \&quot;Gregory Lewis\&quot;]]\n\t\t\t  [[\&quot;Elita Partosoedarso\&quot; \&quot;Arshia U. Zaidi\&quot;]]\n\t\t\t  [[\&quot;Elita Partosoedarso\&quot; \&quot;Kimberley A. Clow\&quot;]]\n\t\t\t  [[\&quot;Maureen Wideman\&quot; \&quot;Ann McGuire\&quot;]]\n\t\t\t  [[\&quot;Carolyn Wilson\&quot; \&quot;Judith A. Grant\&quot;]]\n\t\t\t  [[\&quot;Jay Tashiro\&quot; \&quot;Andrew Hogue\&quot;] [\&quot;Jay Tashiro\&quot; \&quot;Kimberley Sears\&quot;]]\n\t\t\t  [[\&quot;Christopher Dicarlo\&quot; \&quot;Brenda Tilley\&quot;]]\n\t\t\t  [[\&quot;Christopher Dicarlo\&quot; \&quot;Bill Kapralos\&quot;]]\n\t\t\t  [[\&quot;Bernadette Murphy\&quot; \&quot;Emma Bartfay\&quot;]]\n\t\t\t  [[\&quot;Jason Hunter\&quot; \&quot;Paula Di Cato\&quot;]]\n\t\t\t  [[\&quot;Bill Kapralos\&quot; \&quot;Wesley Crichlow\&quot;]]\n\t\t\t  [[\&quot;William Sherif\&quot; \&quot;Brenda Tilley\&quot;]]\n\t\t\t  [[\&quot;Ilona Kletskin\&quot; \&quot;Christopher Dicarlo\&quot;]]\n\t\t\t  [[\&quot;Paula Di Cato\&quot; \&quot;Christopher Dicarlo\&quot;]]\n\t\t\t  [[\&quot;Ilona Kletskin\&quot; \&quot;Ruth Milman\&quot;]]\n\t\t\t  [[\&quot;Paula Di Cato\&quot; \&quot;Ruth Milman\&quot;]]\n\t\t\t  [[\&quot;Paula Di Cato\&quot; \&quot;John Muise\&quot;]]\n\t\t\t  [[\&quot;Ilona Kletskin\&quot; \&quot;John Muise\&quot;]]\n\t\t\t  [[\&quot;Paula Di Cato\&quot; \&quot;Christopher Dicarlo\&quot;]]\n\t\t\t  [[\&quot;Ilona Kletskin\&quot; \&quot;Christopher Dicarlo\&quot;]]\n\t\t\t  [[\&quot;Paula Di Cato\&quot; \&quot;Joseph D. Macmillan\&quot;] [\&quot;Paula Di Cato\&quot; \&quot;Joseph D. Macmillan\&quot;]]\n\t\t\t  [[\&quot;Ilona Kletskin\&quot; \&quot;Joseph D. Macmillan\&quot;] [\&quot;Ilona Kletskin\&quot; \&quot;Joseph D. Macmillan\&quot;]]\n\t\t\t  [[\&quot;Gregory Lewis\&quot; \&quot;Carla Cesaroni\&quot;]]\n\t\t\t  [[\&quot;Gregory Lewis\&quot; \&quot;Kristine Williams\&quot;] [\&quot;Gregory Lewis\&quot; \&quot;Carla Cesaroni\&quot;]]\n\t\t\t  [[\&quot;Gregory Lewis\&quot; \&quot;Carla Cesaroni\&quot;]]\n\t\t\t  [[\&quot;Gregory Lewis\&quot; \&quot;Kristine Williams\&quot;] [\&quot;Gregory Lewis\&quot; \&quot;Carla Cesaroni\&quot;]]\n\t\t\t  [[\&quot;Dhavide A. Aruliah\&quot; \&quot;June MacDonald-Jenkins\&quot;] [\&quot;Dhavide A. Aruliah\&quot; \&quot;Dana Chorney\&quot;]]\n\t\t\t  [[\&quot;Ilona Kletskin\&quot; \&quot;June MacDonald-Jenkins\&quot;] [\&quot;Ilona Kletskin\&quot; \&quot;Dana Chorney\&quot;]]\n\t\t\t  [[\&quot;Ilona Kletskin\&quot; \&quot;Patrik Olsson\&quot;]]\n\t\t\t  [[\&quot;Dhavide A. Aruliah\&quot; \&quot;Patrik Olsson\&quot;]]\n\t\t\t  [[\&quot;Pietro-Luciano Buono\&quot; \&quot;Sean Bohun\&quot;]]\n\t\t\t  [[\&quot;Sean Bohun\&quot; \&quot;Joseph D. Macmillan\&quot;]]\n\t\t\t  [[\&quot;Emmanuel Lorin\&quot; \&quot;Molly Dragiewicz\&quot;]]\n\t\t\t  [[\&quot;Ayush Kumar\&quot; \&quot;Peter Berg\&quot;]]\n\t\t\t  [[\&quot;Debora McKay\&quot; \&quot;Peter Berg\&quot;]]\n\t\t\t  [[\&quot;Ruth Simpson\&quot; \&quot;Peter Berg\&quot;]]\n\t\t\t  [[\&quot;Connie Thurber\&quot; \&quot;Peter Berg\&quot;]]\n\t\t\t  [[\&quot;Amanda Laird\&quot; \&quot;Kimberley A. Clow\&quot;]]\n\t\t\t  [[\&quot;Kathy Cummings\&quot; \&quot;Dana Chorney\&quot;] [\&quot;Kathy Cummings\&quot; \&quot;Dana Chorney\&quot;] [\&quot;Kathy Cummings\&quot; \&quot;Dana Chorney\&quot;]]\n\t\t\t  [[\&quot;Patricia Munro-Gilbert\&quot; \&quot;Dana Chorney\&quot;]\n\t\t\t   [\&quot;Patricia Munro-Gilbert\&quot; \&quot;Dana Chorney\&quot;]\n\t\t\t   [\&quot;Patricia Munro-Gilbert\&quot; \&quot;Dana Chorney\&quot;]]\n\t\t\t  [[\&quot;Nancy Lawrence\&quot; \&quot;Peter Berg\&quot;]]\n\t\t\t  [[\&quot;Gail Lindsay\&quot; \&quot;Brenda Tilley\&quot;]]\n\t\t\t  [[\&quot;Christopher Dicarlo\&quot; \&quot;Kristin Skinner\&quot;]]\n\t\t\t  [[\&quot;Joseph D. Macmillan\&quot; \&quot;Patrik Olsson\&quot;]]\n\t\t\t  [[\&quot;Anatoli Chkrebtii\&quot; \&quot;Wesley Crichlow\&quot;] [\&quot;Anatoli Chkrebtii\&quot; \&quot;Stephen Nancoo\&quot;]]\n\t\t\t  [[\&quot;Kristin Skinner\&quot; \&quot;Paula Di Cato\&quot;] [\&quot;Kristin Skinner\&quot; \&quot;Paula Di Cato\&quot;]]\n\t\t\t  [[\&quot;Kristine Williams\&quot; \&quot;John Muise\&quot;]]\n\t\t\t  [[\&quot;Anthony Waker\&quot; \&quot;Barry Neil\&quot;]]\n\t\t\t  [[\&quot;Edward Waller\&quot; \&quot;Barry Neil\&quot;]]\n\t\t\t  [[\&quot;Barry Neil\&quot; \&quot;Anthony Waker\&quot;]]\n\t\t\t  [[\&quot;Judith A. Grant\&quot; \&quot;Patrik Olsson\&quot;]]\n\t\t\t  [[\&quot;Sasha Baglay\&quot; \&quot;Patrik Olsson\&quot;]]\n\t\t\t  [[\&quot;Sasha Baglay\&quot; \&quot;Kimberley A. Clow\&quot;]]\n\t\t\t  [[\&quot;Patrik Olsson\&quot; \&quot;Kimberley A. Clow\&quot;]]\n\t\t\t  [[\&quot;Patrik Olsson\&quot; \&quot;Walter Dekeseredy\&quot;]]\n\t\t\t  [[\&quot;Arshia U. Zaidi\&quot; \&quot;Paula Di Cato\&quot;] [\&quot;Arshia U. Zaidi\&quot; \&quot;Paula Di Cato\&quot;]]\n\t\t\t  [[\&quot;Arshia U. Zaidi\&quot; \&quot;Craig Beam\&quot;]]\n\t\t\t  [[\&quot;Arshia U. Zaidi\&quot; \&quot;Stephen Nancoo\&quot;]]\n\t\t\t  [[\&quot;Molly Dragiewicz\&quot; \&quot;Wesley Crichlow\&quot;] [\&quot;Molly Dragiewicz\&quot; \&quot;Stephen Nancoo\&quot;]]\n\t\t\t  [[\&quot;Shahid Alvi\&quot; \&quot;Stephen Nancoo\&quot;]]\n\t\t\t  [[\&quot;Harini Sivalingam\&quot; \&quot;Wesley Crichlow\&quot;]]\n\t\t\t  [[\&quot;Wesley Crichlow\&quot; \&quot;Daved Muttart\&quot;]]\n\t\t\t  [[\&quot;Janice Strap\&quot; \&quot;Holly Jones-Taggart\&quot;]]\n\t\t\t  [[\&quot;Janice Strap\&quot; \&quot;Stephen Cheung\&quot;] [\&quot;Janice Strap\&quot; \&quot;Jessica L. Clarke\&quot;]]\n\t\t\t  [[\&quot;Sean G. Forrester\&quot; \&quot;Krisztina Paal\&quot;] [\&quot;Sean G. Forrester\&quot; \&quot;Ying Zhu\&quot;]]\n\t\t\t  [[\&quot;Holly Jones-Taggart\&quot; \&quot;Robert Coke\&quot;]]\n\t\t\t  [[\&quot;Sylvie Bardin\&quot; \&quot;Yuping He\&quot;]]\n\t\t\t  [[\&quot;Christopher Garside\&quot; \&quot;Ahmad Barari\&quot;]]\n\t\t\t  [[\&quot;William Goodman\&quot; \&quot;Tiffany Seccareccia\&quot;] [\&quot;William Goodman\&quot; \&quot;Ferdinand Jones\&quot;]]\n\t\t\t  [[\&quot;Jennifer Percival\&quot; \&quot;Robert Coke\&quot;] [\&quot;Jennifer Percival\&quot; \&quot;Peter Knight\&quot;]]\n\t\t\t  [[\&quot;Jessica L. Clarke\&quot; \&quot;Robert Coke\&quot;] [\&quot;Jessica L. Clarke\&quot; \&quot;Peter Knight\&quot;]]\n\t\t\t  [[\&quot;Neil Wolff\&quot; \&quot;Stephen Cheung\&quot;] [\&quot;Neil Wolff\&quot; \&quot;Jessica L. Clarke\&quot;]]\n\t\t\t  [[\&quot;Robert Coke\&quot; \&quot;James Tait\&quot;] [\&quot;Robert Coke\&quot; \&quot;Jing Ren\&quot;]]\n\t\t\t  [[\&quot;Angela Kellett\&quot; \&quot;Tapas Pain\&quot;]]\n\t\t\t  [[\&quot;Athina Hall\&quot; \&quot;Tapas Pain\&quot;]]\n\t\t\t  [[\&quot;Ryan Moynes\&quot; \&quot;Tapas Pain\&quot;]]\n\t\t\t  [[\&quot;Patrick Hung\&quot; \&quot;Jennifer Laffier\&quot;]]\n\t\t\t  [[\&quot;Stephen Rose\&quot; \&quot;Alyson King\&quot;]]\n\t\t\t  [[\&quot;Jane M. Bowen\&quot; \&quot;Jing  Lei\&quot;]]\n\t\t\t  [[\&quot;Jane M. Bowen\&quot; \&quot;Zhenfeng Ma\&quot;]]\n\t\t\t  [[\&quot;Jane M. Bowen\&quot; \&quot;Edward Waller\&quot;]]\n\t\t\t  [[\&quot;Carolin Munro\&quot; \&quot;Reza Ghafouri\&quot;]]\n\t\t\t  [[\&quot;Cuiping Chen\&quot; \&quot;Ying Jiang\&quot;]]\n\t\t\t  [[\&quot;Krisztina Paal\&quot; \&quot;Shahram Shahbazpanahi\&quot;]]\n\t\t\t  [[\&quot;Brad Easton\&quot; \&quot;Krisztina Paal\&quot;]]\n\t\t\t  [[\&quot;Sandra Montgomery\&quot; \&quot;Sharon Lauricella\&quot;]]\n\t\t\t  [[\&quot;Sharon Lauricella\&quot; \&quot;Ahmad Barari\&quot;]]\n\t\t\t  [[\&quot;Sharon Lauricella\&quot; \&quot;Mikael Eklund\&quot;]]\n\t\t\t  [[\&quot;Miguel Vargas Martin\&quot; \&quot;Ramiro Liscano\&quot;] [\&quot;Miguel Vargas Martin\&quot; \&quot;Shahram Shahbazpanahi\&quot;]]\n\t\t\t  [[\&quot;Ramiro Liscano\&quot; \&quot;Clemens Martin\&quot;]]\n\t\t\t  [[\&quot;Jing Ren\&quot; \&quot;Yuping He\&quot;] [\&quot;Jing Ren\&quot; \&quot;Lixuan Lu\&quot;]]\n\t\t\t  [[\&quot;Dan Zhang\&quot; \&quot;Yuping He\&quot;]]\n\t\t\t  [[\&quot;Michael J. Bennett\&quot; \&quot;Ramiro Liscano\&quot;]]\n\t\t\t  [[\&quot;Ebrahim Esmailzadeh\&quot; \&quot;Ahmad Barari\&quot;]]\n\t\t\t  [[\&quot;Mikael Eklund\&quot; \&quot;Ibrahim Dincer\&quot;] [\&quot;Mikael Eklund\&quot; \&quot;Mehmet Kanoglu\&quot;]]])&quot;, :offset 13506, :ns &quot;course-listing.task3&quot;} {:command &quot;(defn find-instructor-meetings [courses]\n  (loop [course    (first courses)\n\t\t remaining (rest courses)\n\t\t meetings  []]\n\t(if-not (empty? remaining)\n\t  (let [course-to-match course\n\t\t\tmatched (reduce (fn [matched-instructors current-course]\n\t\t\t\t\t\t\t  (let [match? (compare-instructors course-to-match current-course)]\n\t\t\t\t\t\t\t\t(if match?\n\t\t\t\t\t\t\t\t  (merge matched-instructors [(:instructor course-to-match) (:instructor current-course)])\n\t\t\t\t\t\t\t\t  matched-instructors)))\n\t\t\t\t\t  [] remaining)]\n\t\t(recur\n\t\t  (first remaining)\n\t\t  (rest remaining)\n\t\t  (if (empty? matched)\n\t\t\tmeetings\n\t\t\t(into meetings matched))))\n\t  meetings)))&quot;, :offset 623, :ns &quot;course-listing.task3&quot;} {:command &quot;(frequencies [[\&quot;Christopher Garside\&quot; \&quot;Greg F. Naterer\&quot;]\n\t\t\t  [\&quot;Christopher Garside\&quot; \&quot;Judith A. Grant\&quot;]\n\t\t\t  [\&quot;Mary Olaveson\&quot; \&quot;Greg F. Naterer\&quot;]\n\t\t\t  [\&quot;Mary Olaveson\&quot; \&quot;Judith A. Grant\&quot;]\n\t\t\t  [\&quot;Christopher Garside\&quot; \&quot;Brian Nixon\&quot;]\n\t\t\t  [\&quot;Christopher Garside\&quot; \&quot;Ilona Kletskin\&quot;]\n\t\t\t  [\&quot;Christopher Garside\&quot; \&quot;Dhavide A. Aruliah\&quot;]\n\t\t\t  [\&quot;Mary Olaveson\&quot; \&quot;Brian Nixon\&quot;]\n\t\t\t  [\&quot;Mary Olaveson\&quot; \&quot;Ilona Kletskin\&quot;]\n\t\t\t  [\&quot;Mary Olaveson\&quot; \&quot;Dhavide A. Aruliah\&quot;]\n\t\t\t  [\&quot;Christopher Garside\&quot; \&quot;Ali Grami\&quot;]\n\t\t\t  [\&quot;Mary Olaveson\&quot; \&quot;Ali Grami\&quot;]\n\t\t\t  [\&quot;Douglas Holdway\&quot; \&quot;Ghaus M. Rizvi\&quot;]\n\t\t\t  [\&quot;Douglas Holdway\&quot; \&quot;Brenda Tilley\&quot;]\n\t\t\t  [\&quot;Douglas Holdway\&quot; \&quot;Johanna De Boer\&quot;]\n\t\t\t  [\&quot;Douglas Holdway\&quot; \&quot;David C. Magri\&quot;]\n\t\t\t  [\&quot;Holly Jones-Taggart\&quot; \&quot;Sean G. Forrester\&quot;]\n\t\t\t  [\&quot;Holly Jones-Taggart\&quot; \&quot;George Platanitis\&quot;]\n\t\t\t  [\&quot;Sean G. Forrester\&quot; \&quot;Sean Bohun\&quot;]\n\t\t\t  [\&quot;Sean G. Forrester\&quot; \&quot;Walter Dekeseredy\&quot;]\n\t\t\t  [\&quot;Sean G. Forrester\&quot; \&quot;Joseph D. Macmillan\&quot;]\n\t\t\t  [\&quot;Sean G. Forrester\&quot; \&quot;Sasha Baglay\&quot;]\n\t\t\t  [\&quot;Sean G. Forrester\&quot; \&quot;Barbara Perry\&quot;]\n\t\t\t  [\&quot;Annette Tavares\&quot; \&quot;Marta Chisu\&quot;]\n\t\t\t  [\&quot;Marco Belmont\&quot; \&quot;Dario T. Bonetta\&quot;]\n\t\t\t  [\&quot;Cecilia Hageman\&quot; \&quot;Janice Strap\&quot;]\n\t\t\t  [\&quot;Cecilia Hageman\&quot; \&quot;Stephen Nancoo\&quot;]\n\t\t\t  [\&quot;Janice Strap\&quot; \&quot;Reddy Bale\&quot;]\n\t\t\t  [\&quot;Janice Strap\&quot; \&quot;Stephen Nancoo\&quot;]\n\t\t\t  [\&quot;Dario T. Bonetta\&quot; \&quot;Paul McGuire\&quot;]\n\t\t\t  [\&quot;Carolyn McGregor\&quot; \&quot;Carolyn Wilson\&quot;]\n\t\t\t  [\&quot;Patrick Hung\&quot; \&quot;Walter Dekeseredy\&quot;]\n\t\t\t  [\&quot;Ali Grami\&quot; \&quot;Dhavide A. Aruliah\&quot;]\n\t\t\t  [\&quot;Ali Grami\&quot; \&quot;Ilona Kletskin\&quot;]\n\t\t\t  [\&quot;Ali Grami\&quot; \&quot;John Friedlan\&quot;]\n\t\t\t  [\&quot;Ali Grami\&quot; \&quot;Dilsat Tuna\&quot;]\n\t\t\t  [\&quot;Robert Coke\&quot; \&quot;Raymond A. Cox\&quot;]\n\t\t\t  [\&quot;John Friedlan\&quot; \&quot;David Valliere\&quot;]\n\t\t\t  [\&quot;John Friedlan\&quot; \&quot;Glenn Harvel\&quot;]\n\t\t\t  [\&quot;Zhenfeng Ma\&quot; \&quot;Jay Tashiro\&quot;]\n\t\t\t  [\&quot;Jackie Simkin\&quot; \&quot;Tripat Gill\&quot;]\n\t\t\t  [\&quot;Jackie Simkin\&quot; \&quot;Carla Cesaroni\&quot;]\n\t\t\t  [\&quot;Raymond A. Cox\&quot; \&quot;Philip Jones\&quot;]\n\t\t\t  [\&quot;Johanna De Boer\&quot; \&quot;David C. Magri\&quot;]\n\t\t\t  [\&quot;Johanna De Boer\&quot; \&quot;Christopher Dicarlo\&quot;]\n\t\t\t  [\&quot;Johanna De Boer\&quot; \&quot;Paula Di Cato\&quot;]\n\t\t\t  [\&quot;Jennifer Percival\&quot; \&quot;Ahmad Barari\&quot;]\n\t\t\t  [\&quot;Ferdinand Jones\&quot; \&quot;Walter Dekeseredy\&quot;]\n\t\t\t  [\&quot;Chi Ng\&quot; \&quot;Brenda Tilley\&quot;]\n\t\t\t  [\&quot;Dilsat Tuna\&quot; \&quot;Brenda Tilley\&quot;]\n\t\t\t  [\&quot;Tripat Gill\&quot; \&quot;Greg F. Naterer\&quot;]\n\t\t\t  [\&quot;Ying Jiang\&quot; \&quot;Fedor Naumkin\&quot;]\n\t\t\t  [\&quot;Raymond A. Cox\&quot; \&quot;Sean Bohun\&quot;]\n\t\t\t  [\&quot;Raymond A. Cox\&quot; \&quot;Mark W. Green\&quot;]\n\t\t\t  [\&quot;Patrick Hung\&quot; \&quot;Kimberley A. Clow\&quot;]\n\t\t\t  [\&quot;Ferdinand Jones\&quot; \&quot;Ruth Milman\&quot;]\n\t\t\t  [\&quot;Tripat Gill\&quot; \&quot;Kimberley A. Clow\&quot;]\n\t\t\t  [\&quot;Tripat Gill\&quot; \&quot;Shirley L. Smith\&quot;]\n\t\t\t  [\&quot;Tripat Gill\&quot; \&quot;Michael J. Bennett\&quot;]\n\t\t\t  [\&quot;Stephen Rose\&quot; \&quot;Christopher Dicarlo\&quot;]\n\t\t\t  [\&quot;Jessica L. Clarke\&quot; \&quot;Christopher Dicarlo\&quot;]\n\t\t\t  [\&quot;David C. Magri\&quot; \&quot;Alyson King\&quot;]\n\t\t\t  [\&quot;David C. Magri\&quot; \&quot;Ghaus M. Rizvi\&quot;]\n\t\t\t  [\&quot;David C. Magri\&quot; \&quot;Sasha Baglay\&quot;]\n\t\t\t  [\&quot;Krisztina Paal\&quot; \&quot;Ilona Kletskin\&quot;]\n\t\t\t  [\&quot;Krisztina Paal\&quot; \&quot;Paula Di Cato\&quot;]\n\t\t\t  [\&quot;Krisztina Paal\&quot; \&quot;Ron McKelvey\&quot;]\n\t\t\t  [\&quot;Krisztina Paal\&quot; \&quot;Kevin Lowe\&quot;]\n\t\t\t  [\&quot;Richard Bartholomew\&quot; \&quot;Sasha Baglay\&quot;]\n\t\t\t  [\&quot;Richard Bartholomew\&quot; \&quot;Kimberley A. Clow\&quot;]\n\t\t\t  [\&quot;Richard Bartholomew\&quot; \&quot;Barbara Perry\&quot;]\n\t\t\t  [\&quot;Richard Bartholomew\&quot; \&quot;Sasha Baglay\&quot;]\n\t\t\t  [\&quot;Richard Bartholomew\&quot; \&quot;Kimberley A. Clow\&quot;]\n\t\t\t  [\&quot;Richard Bartholomew\&quot; \&quot;Barbara Perry\&quot;]\n\t\t\t  [\&quot;Shari Forbes\&quot; \&quot;Sandra Montgomery\&quot;]\n\t\t\t  [\&quot;Shari Forbes\&quot; \&quot;Ibrahim Dincer\&quot;]\n\t\t\t  [\&quot;Brad Easton\&quot; \&quot;Gregory Lewis\&quot;]\n\t\t\t  [\&quot;David C. Magri\&quot; \&quot;Lixuan Lu\&quot;]\n\t\t\t  [\&quot;Brian Nixon\&quot; \&quot;Vijay Sood\&quot;]\n\t\t\t  [\&quot;Jeremy Bradbury\&quot; \&quot;Robert Lee\&quot;]\n\t\t\t  [\&quot;Ruth Milman\&quot; \&quot;Mikael Eklund\&quot;]\n\t\t\t  [\&quot;Ruth Milman\&quot; \&quot;Ilona Kletskin\&quot;]\n\t\t\t  [\&quot;Ruth Milman\&quot; \&quot;Paula Di Cato\&quot;]\n\t\t\t  [\&quot;Mark W. Green\&quot; \&quot;Brian Ikeda\&quot;]\n\t\t\t  [\&quot;Mark W. Green\&quot; \&quot;Paul McGuire\&quot;]\n\t\t\t  [\&quot;Michael J. Bennett\&quot; \&quot;Ying Wang\&quot;]\n\t\t\t  [\&quot;Mark W. Green\&quot; \&quot;Molly Dragiewicz\&quot;]\n\t\t\t  [\&quot;Mark W. Green\&quot; \&quot;Ying Wang\&quot;]\n\t\t\t  [\&quot;Ken Pu\&quot; \&quot;Brad MacIsaac\&quot;]\n\t\t\t  [\&quot;Ken Pu\&quot; \&quot;Michael Dymarski\&quot;]\n\t\t\t  [\&quot;Stephen Cheung\&quot; \&quot;Ahmad Barari\&quot;]\n\t\t\t  [\&quot;Alyson King\&quot; \&quot;Clemens Martin\&quot;]\n\t\t\t  [\&quot;Alyson King\&quot; \&quot;Arshia U. Zaidi\&quot;]\n\t\t\t  [\&quot;Alyson King\&quot; \&quot;Ilona Kletskin\&quot;]\n\t\t\t  [\&quot;Alyson King\&quot; \&quot;Dhavide A. Aruliah\&quot;]\n\t\t\t  [\&quot;Alyson King\&quot; \&quot;Liesel Knaack\&quot;]\n\t\t\t  [\&quot;Alyson King\&quot; \&quot;Ken Pu\&quot;]\n\t\t\t  [\&quot;Alyson King\&quot; \&quot;Michael J. Bennett\&quot;]\n\t\t\t  [\&quot;Alyson King\&quot; \&quot;Mihai Beligan\&quot;]\n\t\t\t  [\&quot;Alyson King\&quot; \&quot;Mary Anne O'Leary\&quot;]\n\t\t\t  [\&quot;Alyson King\&quot; \&quot;Mary Anne O'Leary\&quot;]\n\t\t\t  [\&quot;Alyson King\&quot; \&quot;Peter Berg\&quot;]\n\t\t\t  [\&quot;Alyson King\&quot; \&quot;Robert Lee\&quot;]\n\t\t\t  [\&quot;Alyson King\&quot; \&quot;Robert Lee\&quot;]\n\t\t\t  [\&quot;Alyson King\&quot; \&quot;Robert Lee\&quot;]\n\t\t\t  [\&quot;Alyson King\&quot; \&quot;Nancy Bergeron\&quot;]\n\t\t\t  [\&quot;Alyson King\&quot; \&quot;Tracey Mackinnon\&quot;]\n\t\t\t  [\&quot;Robert Lee\&quot; \&quot;Shahram Shahbazpanahi\&quot;]\n\t\t\t  [\&quot;Robert Lee\&quot; \&quot;Francois Desjardins\&quot;]\n\t\t\t  [\&quot;Robert Lee\&quot; \&quot;Francois Desjardins\&quot;]\n\t\t\t  [\&quot;Kevin Lowe\&quot; \&quot;Shirley Van Nuland\&quot;]\n\t\t\t  [\&quot;Kevin Lowe\&quot; \&quot;Shirley Van Nuland\&quot;]\n\t\t\t  [\&quot;Kevin Lowe\&quot; \&quot;Shirley Van Nuland\&quot;]\n\t\t\t  [\&quot;Shirley Van Nuland\&quot; \&quot;Greg Rohrauer\&quot;]\n\t\t\t  [\&quot;Shirley Van Nuland\&quot; \&quot;Yuping He\&quot;]\n\t\t\t  [\&quot;Shirley L. Smith\&quot; \&quot;Eleodor M. Nichita\&quot;]\n\t\t\t  [\&quot;Shirley L. Smith\&quot; \&quot;Eleodor M. Nichita\&quot;]\n\t\t\t  [\&quot;Sandra Montgomery\&quot; \&quot;Silviu Idita\&quot;]\n\t\t\t  [\&quot;Jennifer Laffier\&quot; \&quot;Carla Cesaroni\&quot;]\n\t\t\t  [\&quot;Paul McGuire\&quot; \&quot;Kimberly Nugent\&quot;]\n\t\t\t  [\&quot;Paul McGuire\&quot; \&quot;Cecilia Hageman\&quot;]\n\t\t\t  [\&quot;Paul McGuire\&quot; \&quot;Barry Neil\&quot;]\n\t\t\t  [\&quot;Paul McGuire\&quot; \&quot;Anatoli Chkrebtii\&quot;]\n\t\t\t  [\&quot;Ron McKelvey\&quot; \&quot;Ebrahim Esmailzadeh\&quot;]\n\t\t\t  [\&quot;Ron McKelvey\&quot; \&quot;Kevin Lowe\&quot;]\n\t\t\t  [\&quot;Kevin Lowe\&quot; \&quot;Ron McKelvey\&quot;]\n\t\t\t  [\&quot;Ron McKelvey\&quot; \&quot;Kevin Lowe\&quot;]\n\t\t\t  [\&quot;Kevin Lowe\&quot; \&quot;Ron McKelvey\&quot;]\n\t\t\t  [\&quot;Vijay Sood\&quot; \&quot;Paula Di Cato\&quot;]\n\t\t\t  [\&quot;Vijay Sood\&quot; \&quot;Ilona Kletskin\&quot;]\n\t\t\t  [\&quot;Vijay Sood\&quot; \&quot;Joseph D. Macmillan\&quot;]\n\t\t\t  [\&quot;Ruth Milman\&quot; \&quot;Mikael Eklund\&quot;]\n\t\t\t  [\&quot;Ruth Milman\&quot; \&quot;Ilona Kletskin\&quot;]\n\t\t\t  [\&quot;Ruth Milman\&quot; \&quot;Paula Di Cato\&quot;]\n\t\t\t  [\&quot;Mikael Eklund\&quot; \&quot;Paula Di Cato\&quot;]\n\t\t\t  [\&quot;Mikael Eklund\&quot; \&quot;Ilona Kletskin\&quot;]\n\t\t\t  [\&quot;Mikael Eklund\&quot; \&quot;Arshia U. Zaidi\&quot;]\n\t\t\t  [\&quot;Mikael Eklund\&quot; \&quot;Gregory Lewis\&quot;]\n\t\t\t  [\&quot;Mikael Eklund\&quot; \&quot;Gregory Lewis\&quot;]\n\t\t\t  [\&quot;Mikael Eklund\&quot; \&quot;Ruth Milman\&quot;]\n\t\t\t  [\&quot;Ghaus M. Rizvi\&quot; \&quot;Jay Tashiro\&quot;]\n\t\t\t  [\&quot;Ghaus M. Rizvi\&quot; \&quot;Kimberley A. Clow\&quot;]\n\t\t\t  [\&quot;Ghaus M. Rizvi\&quot; \&quot;Elita Partosoedarso\&quot;]\n\t\t\t  [\&quot;Ghaus M. Rizvi\&quot; \&quot;Daved Muttart\&quot;]\n\t\t\t  [\&quot;Ahmad Barari\&quot; \&quot;Greg F. Naterer\&quot;]\n\t\t\t  [\&quot;Ahmad Barari\&quot; \&quot;Kimberley A. Clow\&quot;]\n\t\t\t  [\&quot;Ahmad Barari\&quot; \&quot;John Muise\&quot;]\n\t\t\t  [\&quot;Ahmad Barari\&quot; \&quot;Ebrahim Esmailzadeh\&quot;]\n\t\t\t  [\&quot;Reddy Bale\&quot; \&quot;Yuping He\&quot;]\n\t\t\t  [\&quot;Reddy Bale\&quot; \&quot;Yuping He\&quot;]\n\t\t\t  [\&quot;Ramiro Liscano\&quot; \&quot;Scott B. Nokleby\&quot;]\n\t\t\t  [\&quot;Ramiro Liscano\&quot; \&quot;George Platanitis\&quot;]\n\t\t\t  [\&quot;George Platanitis\&quot; \&quot;Jennifer Silver\&quot;]\n\t\t\t  [\&quot;Shahram Shahbazpanahi\&quot; \&quot;Yuping He\&quot;]\n\t\t\t  [\&quot;Vinh Quan\&quot; \&quot;Andrei Rotenstein\&quot;]\n\t\t\t  [\&quot;George Platanitis\&quot; \&quot;Daved Muttart\&quot;]\n\t\t\t  [\&quot;George Platanitis\&quot; \&quot;Daved Muttart\&quot;]\n\t\t\t  [\&quot;George Platanitis\&quot; \&quot;Paula Di Cato\&quot;]\n\t\t\t  [\&quot;George Platanitis\&quot; \&quot;Joseph D. Macmillan\&quot;]\n\t\t\t  [\&quot;George Platanitis\&quot; \&quot;Walter Dekeseredy\&quot;]\n\t\t\t  [\&quot;Yuping He\&quot; \&quot;Ellen Vogel\&quot;]\n\t\t\t  [\&quot;Ebrahim Esmailzadeh\&quot; \&quot;Elita Partosoedarso\&quot;]\n\t\t\t  [\&quot;Ebrahim Esmailzadeh\&quot; \&quot;John Muise\&quot;]\n\t\t\t  [\&quot;Remon Pop-Iliev\&quot; \&quot;Patrik Olsson\&quot;]\n\t\t\t  [\&quot;Ghaus M. Rizvi\&quot; \&quot;Patrik Olsson\&quot;]\n\t\t\t  [\&quot;Michael J. Bennett\&quot; \&quot;Brad MacIsaac\&quot;]\n\t\t\t  [\&quot;Ken Pu\&quot; \&quot;Brad MacIsaac\&quot;]\n\t\t\t  [\&quot;Ken Pu\&quot; \&quot;Michael Dymarski\&quot;]\n\t\t\t  [\&quot;Igor Pioro\&quot; \&quot;Mildred Ryan Harshman\&quot;]\n\t\t\t  [\&quot;Michael J. Bennett\&quot; \&quot;Ying Wang\&quot;]\n\t\t\t  [\&quot;Remon Pop-Iliev\&quot; \&quot;Patrik Olsson\&quot;]\n\t\t\t  [\&quot;Marnie Ham\&quot; \&quot;Patrik Olsson\&quot;]\n\t\t\t  [\&quot;Remon Pop-Iliev\&quot; \&quot;Patrik Olsson\&quot;]\n\t\t\t  [\&quot;Marnie Ham\&quot; \&quot;Patrik Olsson\&quot;]\n\t\t\t  [\&quot;Greg Rohrauer\&quot; \&quot;Reddy Bale\&quot;]\n\t\t\t  [\&quot;Greg Rohrauer\&quot; \&quot;Wendy Stanyon\&quot;]\n\t\t\t  [\&quot;Ying Wang\&quot; \&quot;Emmanuel Lorin\&quot;]\n\t\t\t  [\&quot;Remon Pop-Iliev\&quot; \&quot;Patrik Olsson\&quot;]\n\t\t\t  [\&quot;Scott B. Nokleby\&quot; \&quot;Patrik Olsson\&quot;]\n\t\t\t  [\&quot;Marnie Ham\&quot; \&quot;George Bereznai\&quot;]\n\t\t\t  [\&quot;Marnie Ham\&quot; \&quot;Werner Fieguth\&quot;]\n\t\t\t  [\&quot;Marnie Ham\&quot; \&quot;Reza Ghafouri\&quot;]\n\t\t\t  [\&quot;Marnie Ham\&quot; \&quot;Rob Gravelsins\&quot;]\n\t\t\t  [\&quot;Marnie Ham\&quot; \&quot;Glenn Harvel\&quot;]\n\t\t\t  [\&quot;Marnie Ham\&quot; \&quot;Brian Ikeda\&quot;]\n\t\t\t  [\&quot;Marnie Ham\&quot; \&quot;Matthew H. Kaye\&quot;]\n\t\t\t  [\&quot;Marnie Ham\&quot; \&quot;Ali Keshavarz\&quot;]\n\t\t\t  [\&quot;Marnie Ham\&quot; \&quot;Lixuan Lu\&quot;]\n\t\t\t  [\&quot;Marnie Ham\&quot; \&quot;Kerry Morrison\&quot;]\n\t\t\t  [\&quot;Marnie Ham\&quot; \&quot;Eleodor M. Nichita\&quot;]\n\t\t\t  [\&quot;Marnie Ham\&quot; \&quot;Igor Pioro\&quot;]\n\t\t\t  [\&quot;Marnie Ham\&quot; \&quot;Benjamin Rouben\&quot;]\n\t\t\t  [\&quot;Marnie Ham\&quot; \&quot;Peter Schwanke\&quot;]\n\t\t\t  [\&quot;Marnie Ham\&quot; \&quot;Anthony Waker\&quot;]\n\t\t\t  [\&quot;Marnie Ham\&quot; \&quot;Edward Waller\&quot;]\n\t\t\t  [\&quot;Marnie Ham\&quot; \&quot;Brian Ikeda\&quot;]\n\t\t\t  [\&quot;Reddy Bale\&quot; \&quot;Pietro-Luciano Buono\&quot;]\n\t\t\t  [\&quot;Reddy Bale\&quot; \&quot;Sean Bohun\&quot;]\n\t\t\t  [\&quot;Kimberly Nugent\&quot; \&quot;Ayush Kumar\&quot;]\n\t\t\t  [\&quot;Kimberly Nugent\&quot; \&quot;Ruth Simpson\&quot;]\n\t\t\t  [\&quot;Kimberly Nugent\&quot; \&quot;Connie Thurber\&quot;]\n\t\t\t  [\&quot;Cecilia Hageman\&quot; \&quot;Ayush Kumar\&quot;]\n\t\t\t  [\&quot;Cecilia Hageman\&quot; \&quot;Ruth Simpson\&quot;]\n\t\t\t  [\&quot;Cecilia Hageman\&quot; \&quot;Connie Thurber\&quot;]\n\t\t\t  [\&quot;Kimberly Nugent\&quot; \&quot;Molly Dragiewicz\&quot;]\n\t\t\t  [\&quot;Cecilia Hageman\&quot; \&quot;Molly Dragiewicz\&quot;]\n\t\t\t  [\&quot;Holly Jones-Taggart\&quot; \&quot;Kimberley A. Clow\&quot;]\n\t\t\t  [\&quot;Holly Jones-Taggart\&quot; \&quot;Daved Muttart\&quot;]\n\t\t\t  [\&quot;Elita Partosoedarso\&quot; \&quot;Gregory Lewis\&quot;]\n\t\t\t  [\&quot;Elita Partosoedarso\&quot; \&quot;Gregory Lewis\&quot;]\n\t\t\t  [\&quot;Elita Partosoedarso\&quot; \&quot;Gregory Lewis\&quot;]\n\t\t\t  [\&quot;Elita Partosoedarso\&quot; \&quot;Gregory Lewis\&quot;]\n\t\t\t  [\&quot;Elita Partosoedarso\&quot; \&quot;Arshia U. Zaidi\&quot;]\n\t\t\t  [\&quot;Elita Partosoedarso\&quot; \&quot;Kimberley A. Clow\&quot;]\n\t\t\t  [\&quot;Maureen Wideman\&quot; \&quot;Ann McGuire\&quot;]\n\t\t\t  [\&quot;Carolyn Wilson\&quot; \&quot;Judith A. Grant\&quot;]\n\t\t\t  [\&quot;Jay Tashiro\&quot; \&quot;Andrew Hogue\&quot;]\n\t\t\t  [\&quot;Jay Tashiro\&quot; \&quot;Kimberley Sears\&quot;]\n\t\t\t  [\&quot;Christopher Dicarlo\&quot; \&quot;Brenda Tilley\&quot;]\n\t\t\t  [\&quot;Christopher Dicarlo\&quot; \&quot;Bill Kapralos\&quot;]\n\t\t\t  [\&quot;Bernadette Murphy\&quot; \&quot;Emma Bartfay\&quot;]\n\t\t\t  [\&quot;Jason Hunter\&quot; \&quot;Paula Di Cato\&quot;]\n\t\t\t  [\&quot;Bill Kapralos\&quot; \&quot;Wesley Crichlow\&quot;]\n\t\t\t  [\&quot;William Sherif\&quot; \&quot;Brenda Tilley\&quot;]\n\t\t\t  [\&quot;Ilona Kletskin\&quot; \&quot;Christopher Dicarlo\&quot;]\n\t\t\t  [\&quot;Paula Di Cato\&quot; \&quot;Christopher Dicarlo\&quot;]\n\t\t\t  [\&quot;Ilona Kletskin\&quot; \&quot;Ruth Milman\&quot;]\n\t\t\t  [\&quot;Paula Di Cato\&quot; \&quot;Ruth Milman\&quot;]\n\t\t\t  [\&quot;Paula Di Cato\&quot; \&quot;John Muise\&quot;]\n\t\t\t  [\&quot;Ilona Kletskin\&quot; \&quot;John Muise\&quot;]\n\t\t\t  [\&quot;Paula Di Cato\&quot; \&quot;Christopher Dicarlo\&quot;]\n\t\t\t  [\&quot;Ilona Kletskin\&quot; \&quot;Christopher Dicarlo\&quot;]\n\t\t\t  [\&quot;Paula Di Cato\&quot; \&quot;Joseph D. Macmillan\&quot;]\n\t\t\t  [\&quot;Paula Di Cato\&quot; \&quot;Joseph D. Macmillan\&quot;]\n\t\t\t  [\&quot;Ilona Kletskin\&quot; \&quot;Joseph D. Macmillan\&quot;]\n\t\t\t  [\&quot;Ilona Kletskin\&quot; \&quot;Joseph D. Macmillan\&quot;]\n\t\t\t  [\&quot;Gregory Lewis\&quot; \&quot;Carla Cesaroni\&quot;]\n\t\t\t  [\&quot;Gregory Lewis\&quot; \&quot;Kristine Williams\&quot;]\n\t\t\t  [\&quot;Gregory Lewis\&quot; \&quot;Carla Cesaroni\&quot;]\n\t\t\t  [\&quot;Gregory Lewis\&quot; \&quot;Carla Cesaroni\&quot;]\n\t\t\t  [\&quot;Gregory Lewis\&quot; \&quot;Kristine Williams\&quot;]\n\t\t\t  [\&quot;Gregory Lewis\&quot; \&quot;Carla Cesaroni\&quot;]\n\t\t\t  [\&quot;Dhavide A. Aruliah\&quot; \&quot;June MacDonald-Jenkins\&quot;]\n\t\t\t  [\&quot;Dhavide A. Aruliah\&quot; \&quot;Dana Chorney\&quot;]\n\t\t\t  [\&quot;Ilona Kletskin\&quot; \&quot;June MacDonald-Jenkins\&quot;]\n\t\t\t  [\&quot;Ilona Kletskin\&quot; \&quot;Dana Chorney\&quot;]\n\t\t\t  [\&quot;Ilona Kletskin\&quot; \&quot;Patrik Olsson\&quot;]\n\t\t\t  [\&quot;Dhavide A. Aruliah\&quot; \&quot;Patrik Olsson\&quot;]\n\t\t\t  [\&quot;Pietro-Luciano Buono\&quot; \&quot;Sean Bohun\&quot;]\n\t\t\t  [\&quot;Sean Bohun\&quot; \&quot;Joseph D. Macmillan\&quot;]\n\t\t\t  [\&quot;Emmanuel Lorin\&quot; \&quot;Molly Dragiewicz\&quot;]\n\t\t\t  [\&quot;Ayush Kumar\&quot; \&quot;Peter Berg\&quot;]\n\t\t\t  [\&quot;Debora McKay\&quot; \&quot;Peter Berg\&quot;]\n\t\t\t  [\&quot;Ruth Simpson\&quot; \&quot;Peter Berg\&quot;]\n\t\t\t  [\&quot;Connie Thurber\&quot; \&quot;Peter Berg\&quot;]\n\t\t\t  [\&quot;Amanda Laird\&quot; \&quot;Kimberley A. Clow\&quot;]\n\t\t\t  [\&quot;Kathy Cummings\&quot; \&quot;Dana Chorney\&quot;]\n\t\t\t  [\&quot;Kathy Cummings\&quot; \&quot;Dana Chorney\&quot;]\n\t\t\t  [\&quot;Kathy Cummings\&quot; \&quot;Dana Chorney\&quot;]\n\t\t\t  [\&quot;Patricia Munro-Gilbert\&quot; \&quot;Dana Chorney\&quot;]\n\t\t\t  [\&quot;Patricia Munro-Gilbert\&quot; \&quot;Dana Chorney\&quot;]\n\t\t\t  [\&quot;Patricia Munro-Gilbert\&quot; \&quot;Dana Chorney\&quot;]\n\t\t\t  [\&quot;Nancy Lawrence\&quot; \&quot;Peter Berg\&quot;]\n\t\t\t  [\&quot;Gail Lindsay\&quot; \&quot;Brenda Tilley\&quot;]\n\t\t\t  [\&quot;Christopher Dicarlo\&quot; \&quot;Kristin Skinner\&quot;]\n\t\t\t  [\&quot;Joseph D. Macmillan\&quot; \&quot;Patrik Olsson\&quot;]\n\t\t\t  [\&quot;Anatoli Chkrebtii\&quot; \&quot;Wesley Crichlow\&quot;]\n\t\t\t  [\&quot;Anatoli Chkrebtii\&quot; \&quot;Stephen Nancoo\&quot;]\n\t\t\t  [\&quot;Kristin Skinner\&quot; \&quot;Paula Di Cato\&quot;]\n\t\t\t  [\&quot;Kristin Skinner\&quot; \&quot;Paula Di Cato\&quot;]\n\t\t\t  [\&quot;Kristine Williams\&quot; \&quot;John Muise\&quot;]\n\t\t\t  [\&quot;Anthony Waker\&quot; \&quot;Barry Neil\&quot;]\n\t\t\t  [\&quot;Edward Waller\&quot; \&quot;Barry Neil\&quot;]\n\t\t\t  [\&quot;Barry Neil\&quot; \&quot;Anthony Waker\&quot;]\n\t\t\t  [\&quot;Judith A. Grant\&quot; \&quot;Patrik Olsson\&quot;]\n\t\t\t  [\&quot;Sasha Baglay\&quot; \&quot;Patrik Olsson\&quot;]\n\t\t\t  [\&quot;Sasha Baglay\&quot; \&quot;Kimberley A. Clow\&quot;]\n\t\t\t  [\&quot;Patrik Olsson\&quot; \&quot;Kimberley A. Clow\&quot;]\n\t\t\t  [\&quot;Patrik Olsson\&quot; \&quot;Walter Dekeseredy\&quot;]\n\t\t\t  [\&quot;Arshia U. Zaidi\&quot; \&quot;Paula Di Cato\&quot;]\n\t\t\t  [\&quot;Arshia U. Zaidi\&quot; \&quot;Paula Di Cato\&quot;]\n\t\t\t  [\&quot;Arshia U. Zaidi\&quot; \&quot;Craig Beam\&quot;]\n\t\t\t  [\&quot;Arshia U. Zaidi\&quot; \&quot;Stephen Nancoo\&quot;]\n\t\t\t  [\&quot;Molly Dragiewicz\&quot; \&quot;Wesley Crichlow\&quot;]\n\t\t\t  [\&quot;Molly Dragiewicz\&quot; \&quot;Stephen Nancoo\&quot;]\n\t\t\t  [\&quot;Shahid Alvi\&quot; \&quot;Stephen Nancoo\&quot;]\n\t\t\t  [\&quot;Harini Sivalingam\&quot; \&quot;Wesley Crichlow\&quot;]\n\t\t\t  [\&quot;Wesley Crichlow\&quot; \&quot;Daved Muttart\&quot;]\n\t\t\t  [\&quot;Janice Strap\&quot; \&quot;Holly Jones-Taggart\&quot;]\n\t\t\t  [\&quot;Janice Strap\&quot; \&quot;Stephen Cheung\&quot;]\n\t\t\t  [\&quot;Janice Strap\&quot; \&quot;Jessica L. Clarke\&quot;]\n\t\t\t  [\&quot;Sean G. Forrester\&quot; \&quot;Krisztina Paal\&quot;]\n\t\t\t  [\&quot;Sean G. Forrester\&quot; \&quot;Ying Zhu\&quot;]\n\t\t\t  [\&quot;Holly Jones-Taggart\&quot; \&quot;Robert Coke\&quot;]\n\t\t\t  [\&quot;Sylvie Bardin\&quot; \&quot;Yuping He\&quot;]\n\t\t\t  [\&quot;Christopher Garside\&quot; \&quot;Ahmad Barari\&quot;]\n\t\t\t  [\&quot;William Goodman\&quot; \&quot;Tiffany Seccareccia\&quot;]\n\t\t\t  [\&quot;William Goodman\&quot; \&quot;Ferdinand Jones\&quot;]\n\t\t\t  [\&quot;Jennifer Percival\&quot; \&quot;Robert Coke\&quot;]\n\t\t\t  [\&quot;Jennifer Percival\&quot; \&quot;Peter Knight\&quot;]\n\t\t\t  [\&quot;Jessica L. Clarke\&quot; \&quot;Robert Coke\&quot;]\n\t\t\t  [\&quot;Jessica L. Clarke\&quot; \&quot;Peter Knight\&quot;]\n\t\t\t  [\&quot;Neil Wolff\&quot; \&quot;Stephen Cheung\&quot;]\n\t\t\t  [\&quot;Neil Wolff\&quot; \&quot;Jessica L. Clarke\&quot;]\n\t\t\t  [\&quot;Robert Coke\&quot; \&quot;James Tait\&quot;]\n\t\t\t  [\&quot;Robert Coke\&quot; \&quot;Jing Ren\&quot;]\n\t\t\t  [\&quot;Angela Kellett\&quot; \&quot;Tapas Pain\&quot;]\n\t\t\t  [\&quot;Athina Hall\&quot; \&quot;Tapas Pain\&quot;]\n\t\t\t  [\&quot;Ryan Moynes\&quot; \&quot;Tapas Pain\&quot;]\n\t\t\t  [\&quot;Patrick Hung\&quot; \&quot;Jennifer Laffier\&quot;]\n\t\t\t  [\&quot;Stephen Rose\&quot; \&quot;Alyson King\&quot;]\n\t\t\t  [\&quot;Jane M. Bowen\&quot; \&quot;Jing  Lei\&quot;]\n\t\t\t  [\&quot;Jane M. Bowen\&quot; \&quot;Zhenfeng Ma\&quot;]\n\t\t\t  [\&quot;Jane M. Bowen\&quot; \&quot;Edward Waller\&quot;]\n\t\t\t  [\&quot;Carolin Munro\&quot; \&quot;Reza Ghafouri\&quot;]\n\t\t\t  [\&quot;Cuiping Chen\&quot; \&quot;Ying Jiang\&quot;]\n\t\t\t  [\&quot;Krisztina Paal\&quot; \&quot;Shahram Shahbazpanahi\&quot;]\n\t\t\t  [\&quot;Brad Easton\&quot; \&quot;Krisztina Paal\&quot;]\n\t\t\t  [\&quot;Sandra Montgomery\&quot; \&quot;Sharon Lauricella\&quot;]\n\t\t\t  [\&quot;Sharon Lauricella\&quot; \&quot;Ahmad Barari\&quot;]\n\t\t\t  [\&quot;Sharon Lauricella\&quot; \&quot;Mikael Eklund\&quot;]\n\t\t\t  [\&quot;Miguel Vargas Martin\&quot; \&quot;Ramiro Liscano\&quot;]\n\t\t\t  [\&quot;Miguel Vargas Martin\&quot; \&quot;Shahram Shahbazpanahi\&quot;]\n\t\t\t  [\&quot;Ramiro Liscano\&quot; \&quot;Clemens Martin\&quot;]\n\t\t\t  [\&quot;Jing Ren\&quot; \&quot;Yuping He\&quot;]\n\t\t\t  [\&quot;Jing Ren\&quot; \&quot;Lixuan Lu\&quot;]\n\t\t\t  [\&quot;Dan Zhang\&quot; \&quot;Yuping He\&quot;]\n\t\t\t  [\&quot;Michael J. Bennett\&quot; \&quot;Ramiro Liscano\&quot;]\n\t\t\t  [\&quot;Ebrahim Esmailzadeh\&quot; \&quot;Ahmad Barari\&quot;]\n\t\t\t  [\&quot;Mikael Eklund\&quot; \&quot;Ibrahim Dincer\&quot;]\n\t\t\t  [\&quot;Mikael Eklund\&quot; \&quot;Mehmet Kanoglu\&quot;]])&quot;, :offset 13377, :ns &quot;course-listing.task3&quot;} {:command &quot;(find-instructor-meetings filtered-courses)&quot;, :offset 43, :ns &quot;course-listing.task3&quot;} {:command &quot;(def found-matches (find-instructor-meetings filtered-courses))&quot;, :offset 63, :ns &quot;course-listing.task3&quot;} {:command &quot;(first found-matches)&quot;, :offset 21, :ns &quot;course-listing.task3&quot;} {:command &quot;(take 10 (sort-by frequencies found-matches))&quot;, :offset 45, :ns &quot;course-listing.task3&quot;} {:command &quot;(take 10 (sort-by second (frequencies found-matches)))&quot;, :offset 54, :ns &quot;course-listing.task3&quot;} {:command &quot;(take 10 (reverse (sort-by second (frequencies found-matches))))&quot;, :offset 64, :ns &quot;course-listing.task3&quot;} {:command &quot;(flatten (take 10 (reverse (sort-by second (frequencies found-matches)))))&quot;, :offset 74, :ns &quot;course-listing.task3&quot;} {:command &quot;(def top-ten (take 10 (reverse (sort-by second (frequencies found-matches)))))&quot;, :offset 78, :ns &quot;course-listing.task3&quot;} {:command &quot;(map (fn [[first-instructor second-instructor] meeting-count] (println first-instructor second-instructor meeting-count)) top-ten)&quot;, :offset 130, :ns &quot;course-listing.task3&quot;} {:command &quot;(map (fn [[[first-instructor second-instructor] meeting-count]] (println first-instructor second-instructor meeting-count)) top-ten)&quot;, :offset 132, :ns &quot;course-listing.task3&quot;} {:command &quot;(map (fn [[[first-instructor second-instructor] meeting-count]] (println first-instructor \&quot;\\t\&quot; second-instructor \&quot;\\t\&quot; meeting-count)) top-ten)&quot;, :offset 142, :ns &quot;course-listing.task3&quot;} {:command &quot;(map (fn [[[first-instructor second-instructor] meeting-count]] (println first-instructor \&quot;\\t\\t\&quot; second-instructor \&quot;\\t\\t\&quot; meeting-count)) top-ten)&quot;, :offset 146, :ns &quot;course-listing.task3&quot;} {:command &quot;(map (fn [[[first-instructor second-instructor] meeting-count]] (clojure.pprint first-instructor \&quot;\\t\\t\&quot; second-instructor \&quot;\\t\\t\&quot; meeting-count)) top-ten)&quot;, :offset 153, :ns &quot;course-listing.task3&quot;} {:command &quot;(use clojure.pprint)&quot;, :offset 20, :ns &quot;course-listing.task3&quot;} {:command &quot;('use clojure.pprint)&quot;, :offset 21, :ns &quot;course-listing.task3&quot;} {:command &quot;(use 'clojure.pprint)&quot;, :offset 21, :ns &quot;course-listing.task3&quot;} {:command &quot;pprint&quot;, :offset 6, :ns &quot;course-listing.task3&quot;} {:command &quot;(map (fn [[[first-instructor second-instructor] meeting-count]] (pprint first-instructor \&quot;\\t\\t\&quot; second-instructor \&quot;\\t\\t\&quot; meeting-count)) top-ten)&quot;, :offset 145, :ns &quot;course-listing.task3&quot;} {:command &quot;(map (fn [[[first-instructor second-instructor] meeting-count]] (pprint-indent first-instructor \&quot;\\t\\t\&quot; second-instructor \&quot;\\t\\t\&quot; meeting-count)) top-ten)&quot;, :offset 152, :ns &quot;course-listing.task3&quot;} {:command &quot;(map #(pprint %) top-ten)&quot;, :offset 25, :ns &quot;course-listing.task3&quot;} {:command &quot;(map #(pprint (flatten %)) top-ten)&quot;, :offset 35, :ns &quot;course-listing.task3&quot;} {:command &quot;(map #(pprint-indent (flatten %)) top-ten)&quot;, :offset 42, :ns &quot;course-listing.task3&quot;} {:command &quot;(map #(pprint-tab :line 1 1 (flatten %)) top-ten)&quot;, :offset 49, :ns &quot;course-listing.task3&quot;} {:command &quot;(map #(pprint-tab :line 1 (flatten %)) top-ten)&quot;, :offset 47, :ns &quot;course-listing.task3&quot;} {:command &quot;(map #(print-table (flatten %)) top-ten)&quot;, :offset 40, :ns &quot;course-listing.task3&quot;} {:command &quot;(map #(printf \&quot;%,4s%,4s%,4d\&quot; (flatten %)) top-ten)&quot;, :offset 50, :ns &quot;course-listing.task3&quot;} {:command &quot;(map #(printf \&quot;%-3s%-4s%-3s\&quot; (flatten %)) top-ten)&quot;, :offset 50, :ns &quot;course-listing.task3&quot;} {:command &quot;(map #(printf \&quot;%-3s%s%d\&quot; (flatten %)) top-ten)&quot;, :offset 46, :ns &quot;course-listing.task3&quot;} {:command &quot;(map #(printf \&quot;%-3s %s %d\&quot; (flatten %)) top-ten)&quot;, :offset 48, :ns &quot;course-listing.task3&quot;} {:command &quot;(map #(printf \&quot;%-3s\&quot; (flatten %)) top-ten)&quot;, :offset 42, :ns &quot;course-listing.task3&quot;} {:command &quot;(map #(printf \&quot;%-3ssd\&quot; (flatten %)) top-ten)&quot;, :offset 44, :ns &quot;course-listing.task3&quot;} {:command &quot;(map #(printf \&quot;%-3$s$s$d\&quot; (flatten %)) top-ten)&quot;, :offset 47, :ns &quot;course-listing.task3&quot;} {:command &quot;(map #(printf \&quot;-3%s$s$d\&quot; (flatten %)) top-ten)&quot;, :offset 46, :ns &quot;course-listing.task3&quot;} {:command &quot;(map #(printf \&quot;%-3s$s$d\&quot; (flatten %)) top-ten)&quot;, :offset 46, :ns &quot;course-listing.task3&quot;} {:command &quot;(map #(printf \&quot;%-3s $s $d\&quot; (flatten %)) top-ten)&quot;, :offset 48, :ns &quot;course-listing.task3&quot;} {:command &quot;(map #(printf \&quot;%1-3s %2$s %3$d\&quot; (flatten %)) top-ten)&quot;, :offset 53, :ns &quot;course-listing.task3&quot;} {:command &quot;(map #(printf \&quot;%1s %2$s %3$d\&quot; (flatten %)) top-ten)&quot;, :offset 51, :ns &quot;course-listing.task3&quot;} {:command &quot;(map #(printf \&quot;%1 %2 %3\&quot; (flatten %)) top-ten)&quot;, :offset 46, :ns &quot;course-listing.task3&quot;} {:command &quot;(map #(printf \&quot;$1 %2 %3\&quot; (flatten %)) top-ten)&quot;, :offset 46, :ns &quot;course-listing.task3&quot;} {:command &quot;(map #(printf \&quot;$1 $2 $3\&quot; (flatten %)) top-ten)&quot;, :offset 46, :ns &quot;course-listing.task3&quot;} {:command &quot;(map #(printf \&quot;%s$1 $2 $3\&quot; (flatten %)) top-ten)&quot;, :offset 48, :ns &quot;course-listing.task3&quot;} {:command &quot;(map #(println (flatten %)) top-ten)&quot;, :offset 36, :ns &quot;course-listing.task3&quot;} {:command &quot;(map (fn [[[first-instructor second-instructor] meeting-count]] (printf \&quot;%s %s %d\&quot; first-instructor second-instructor meeting-count)) top-ten)&quot;, :offset 142, :ns &quot;course-listing.task3&quot;} {:command &quot;(map (fn [[[first-instructor second-instructor] meeting-count]] (printf \&quot;%s %s %d\\r\\n\&quot; first-instructor second-instructor meeting-count)) top-ten)&quot;, :offset 146, :ns &quot;course-listing.task3&quot;} {:command &quot;(map (fn [[[first-instructor second-instructor] meeting-count]] (printf \&quot;%-3s %s %d\\r\\n\&quot; first-instructor second-instructor meeting-count)) top-ten)&quot;, :offset 148, :ns &quot;course-listing.task3&quot;} {:command &quot;(map (fn [[[first-instructor second-instructor] meeting-count]] (printf \&quot;%+3s %s %d\\r\\n\&quot; first-instructor second-instructor meeting-count)) top-ten)&quot;, :offset 148, :ns &quot;course-listing.task3&quot;} {:command &quot;(map (fn [[[first-instructor second-instructor] meeting-count]] (printf \&quot;%-20s %-20s %-20d\\r\\n\&quot; first-instructor second-instructor meeting-count)) top-ten)&quot;, :offset 155, :ns &quot;course-listing.task3&quot;} {:command &quot;(map (fn [[[first-instructor second-instructor] meeting-count]] (printf \&quot;%-30s %-30s %-30d\\r\\n\&quot; first-instructor second-instructor meeting-count)) top-ten)&quot;, :offset 155, :ns &quot;course-listing.task3&quot;} {:command &quot;top-ten&quot;, :offset 7, :ns &quot;course-listing.task3&quot;} {:command &quot;(eval top-ten)&quot;, :offset 14, :ns &quot;course-listing.task3&quot;} {:command &quot;(defn main [course-listing-file]\n  (let [file-contents (slurp course-listing-file)]\n\t(-&gt;&gt; (create-map-from-file file-contents)\n\t  (filter-invalid-instructors)\n\t  (find-instructor-meetings)\n\t  (get-top-instructors)\n\t  (print-result))))&quot;, :offset 234, :ns &quot;course-listing.task3&quot;} {:command &quot;(ns course-listing.task3\n  (:gen-class)\n  (:require [course-listing.csv-helper :refer :all]\n\t\t\t[clojure.data :as data]\n\t\t\t[clojure.core.reducers :as reducers]))&quot;, :offset 160, :ns &quot;course-listing.task3&quot;} {:command &quot;(defn find-instructor-meetings [courses]\n  (loop [course    (first courses)\n\t\t remaining (rest courses)\n\t\t meetings  []]\n\t(if-not (empty? remaining)\n\t  (let [course-to-match course\n\t\t\tmatched (reducers/fold (fn [matched-instructors current-course]\n\t\t\t\t\t\t\t  (let [match? (compare-instructors course-to-match current-course)]\n\t\t\t\t\t\t\t\t(if match?\n\t\t\t\t\t\t\t\t  (conj matched-instructors [(:instructor course-to-match) (:instructor current-course)])\n\t\t\t\t\t\t\t\t  matched-instructors)))\n\t\t\t\t\t  [] remaining)]\n\t\t(recur\n\t\t  (first remaining)\n\t\t  (rest remaining)\n\t\t  (if (empty? matched)\n\t\t\tmeetings\n\t\t\t(into meetings matched))))\n\t  meetings)))&quot;, :offset 629, :ns &quot;course-listing.task3&quot;} {:command &quot;(mapv (fn [[[first-instructor second-instructor] meeting-count]] (printf \&quot;%-30s %-30s %-30d\\r\\n\&quot; first-instructor second-instructor meeting-count)) top-ten)&quot;, :offset 156, :ns &quot;course-listing.task3&quot;} {:command &quot;(in-ns 'course-listing.task3)\n(def filtered-courses (filter-invalid-instructors (create-map-from-file (slurp \&quot;/Users/Utility/Projects/course-listing/2017-10-15.txt\&quot;))))&quot;, :offset 168, :ns &quot;course-listing.core&quot;} {:command &quot;(def first-thousand (take 1000 filtered-courses))&quot;, :offset 49, :ns &quot;course-listing.task3&quot;} {:command &quot;(def first-thousand (take 5000 filtered-courses))&quot;, :offset 49, :ns &quot;course-listing.task3&quot;} {:command &quot;(defn find-instructor-meetings [courses]\n  (loop [course    (first courses)\n\t\t remaining (rest courses)\n\t\t meetings  []]\n\t(if-not (empty? remaining)\n\t  (let [course-to-match course\n\t\t\tmatched (s/reduce (fn [matched-instructors current-course]\n\t\t\t\t\t\t\t  (let [match? (compare-instructors course-to-match current-course)]\n\t\t\t\t\t\t\t\t(if match?\n\t\t\t\t\t\t\t\t  (conj matched-instructors [(:instructor course-to-match) (:instructor current-course)])\n\t\t\t\t\t\t\t\t  matched-instructors)))\n\t\t\t\t\t  [] remaining)]\n\t\t(recur\n\t\t  (first remaining)\n\t\t  (rest remaining)\n\t\t  (if (empty? matched)\n\t\t\tmeetings\n\t\t\t(into meetings matched))))\n\t  meetings)))&quot;, :offset 624, :ns &quot;course-listing.task3&quot;} {:command &quot;(s/reduce)&quot;, :offset 10, :ns &quot;course-listing.task3&quot;} {:command &quot;(s/reduce (fn [a b] (conj a b)) [] [1 2 3 4 5 6 7 8 9 10])&quot;, :offset 58, :ns &quot;course-listing.task3&quot;} {:command &quot;(s/reduce (fn [a b] (conj a b)) [] [[1 2] [2 3] [3 4] [4 5] [5 6] [6 7] [7 8] [8 9] [9 10]])&quot;, :offset 92, :ns &quot;course-listing.task3&quot;} {:command &quot;(defn find-instructor-meetings [courses]\n  (loop [course    (first courses)\n\t\t remaining (rest courses)\n\t\t meetings  []]\n\t(if-not (empty? remaining)\n\t  (let [course-to-match course\n\t\t\tmatched (s/reduce (fn [matched-instructors current-course]\n\t\t\t\t\t\t\t  (let [match? (compare-instructors course-to-match current-course)]\n\t\t\t\t\t\t\t\t(if match?\n\t\t\t\t\t\t\t\t  (conj matched-instructors [(:instructor course-to-match) (:instructor current-course)])\n\t\t\t\t\t\t\t\t  matched-instructors)))\n\t\t\t\t\t  [] remaining)\n\t\t\ttest (println matched)]\n\t\t(recur\n\t\t  (first remaining)\n\t\t  (rest remaining)\n\t\t  (if (empty? matched)\n\t\t\tmeetings\n\t\t\t(into meetings matched))))\n\t  meetings)))&quot;, :offset 650, :ns &quot;course-listing.task3&quot;} {:command &quot;(defn find-instructor-meetings [courses]\n  (loop [course    (first courses)\n\t\t remaining (rest courses)\n\t\t meetings  []]\n\t(if-not (empty? remaining)\n\t  (let [course-to-match course\n\t\t\tmatched (reduce (fn [matched-instructors current-course]\n\t\t\t\t\t\t\t  (let [match? (compare-instructors course-to-match current-course)]\n\t\t\t\t\t\t\t\t(if match?\n\t\t\t\t\t\t\t\t  (conj matched-instructors [(:instructor course-to-match) (:instructor current-course)])\n\t\t\t\t\t\t\t\t  matched-instructors)))\n\t\t\t\t\t  [] remaining)\n\t\t\ttest (println matched)]\n\t\t(recur\n\t\t  (first remaining)\n\t\t  (rest remaining)\n\t\t  (if (empty? matched)\n\t\t\tmeetings\n\t\t\t(into meetings matched))))\n\t  meetings)))&quot;, :offset 648, :ns &quot;course-listing.task3&quot;} {:command &quot;(ns course-listing.task3\n  (:gen-class)\n  (:require [course-listing.csv-helper :refer :all]\n\t\t\t[tesser.core :as c]))&quot;, :offset 116, :ns &quot;course-listing.task3&quot;} {:command &quot;(defn find-instructor-meetings [courses]\n  (loop [course    (first courses)\n\t\t remaining (rest courses)\n\t\t meetings  []]\n\t(if-not (empty? remaining)\n\t  (let [course-to-match course\n\t\t\tmatched (c/reduce (fn [matched-instructors current-course]\n\t\t\t\t\t\t\t  (let [match? (compare-instructors course-to-match current-course)]\n\t\t\t\t\t\t\t\t(if match?\n\t\t\t\t\t\t\t\t  (conj matched-instructors [(:instructor course-to-match) (:instructor current-course)])\n\t\t\t\t\t\t\t\t  matched-instructors)))\n\t\t\t\t\t  [] remaining)\n\t\t\ttest (println matched)]\n\t\t(recur\n\t\t  (first remaining)\n\t\t  (rest remaining)\n\t\t  (if (empty? matched)\n\t\t\tmeetings\n\t\t\t(into meetings matched))))\n\t  meetings)))&quot;, :offset 650, :ns &quot;course-listing.task3&quot;} {:command &quot;(ns course-listing.task3\n  (:gen-class)\n  (:require [course-listing.csv-helper :refer :all]\n\t\t\t[tesser.simple :as s]))&quot;, :offset 118, :ns &quot;course-listing.task3&quot;} {:command &quot;(defn find-instructor-meetings [courses]\n  (loop [course    (first courses)\n\t\t remaining (rest courses)\n\t\t meetings  []]\n\t(if-not (empty? remaining)\n\t  (let [course-to-match course\n\t\t\tmatched-instructors []\n\t\t\tmatched (s/fold (fn [current-course]\n\t\t\t\t\t\t\t  (let [match? (compare-instructors course-to-match current-course)]\n\t\t\t\t\t\t\t\t(if match?\n\t\t\t\t\t\t\t\t  (conj matched-instructors [(:instructor course-to-match) (:instructor current-course)])\n\t\t\t\t\t\t\t\t  matched-instructors)))\n\t\t\t\t\t  remaining)\n\t\t\ttest (println matched)]\n\t\t(recur\n\t\t  (first remaining)\n\t\t  (rest remaining)\n\t\t  (if (empty? matched)\n\t\t\tmeetings\n\t\t\t(into meetings matched))))\n\t  meetings)))&quot;, :offset 651, :ns &quot;course-listing.task3&quot;} {:command &quot;(defn find-instructor-meetings [courses]\n  (loop [course    (first courses)\n\t\t remaining (rest courses)\n\t\t meetings  []]\n\t(if-not (empty? remaining)\n\t  (let [course-to-match course\n\t\t\tmatched-instructors []\n\t\t\tmatched (map (fn [current-course]\n\t\t\t\t\t\t\t  (let [match? (compare-instructors course-to-match current-course)]\n\t\t\t\t\t\t\t\t(if match?\n\t\t\t\t\t\t\t\t  (conj matched-instructors [(:instructor course-to-match) (:instructor current-course)])\n\t\t\t\t\t\t\t\t  matched-instructors)))\n\t\t\t\t\t  remaining)\n\t\t\ttest (println matched)]\n\t\t(recur\n\t\t  (first remaining)\n\t\t  (rest remaining)\n\t\t  (if (empty? matched)\n\t\t\tmeetings\n\t\t\t(into meetings matched))))\n\t  meetings)))&quot;, :offset 648, :ns &quot;course-listing.task3&quot;} {:command &quot;(defn find-instructor-meetings [courses]\n  (loop [course    (first courses)\n\t\t remaining (rest courses)\n\t\t meetings  []]\n\t(if-not (empty? remaining)\n\t  (let [course-to-match course\n\t\t\tmatched-instructors (atom [])\n\t\t\tmatched (map (fn [current-course]\n\t\t\t\t\t\t\t  (let [match? (compare-instructors course-to-match current-course)]\n\t\t\t\t\t\t\t\t(if match?\n\t\t\t\t\t\t\t\t  (swap! matched-instructors #(conj [(:instructor course-to-match) (:instructor current-course)]))\n\t\t\t\t\t\t\t\t  )))\n\t\t\t\t\t  remaining)\n\t\t\ttest (println matched)]\n\t\t(recur\n\t\t  (first remaining)\n\t\t  (rest remaining)\n\t\t  (if (empty? matched)\n\t\t\tmeetings\n\t\t\t(into meetings matched))))\n\t  meetings)))&quot;, :offset 645, :ns &quot;course-listing.task3&quot;} {:command &quot;(defn find-instructor-meetings [courses]\n  (let [meetings (atom [])]\n\t(loop [course    (first courses)\n\t\t   remaining (rest courses)]\n\t  (if-not (empty? remaining)\n\t\t(let [course-to-match course\n\t\t\t  matched         (map (fn [current-course]\n\t\t\t\t\t\t\t\t\t (let [match? (compare-instructors course-to-match current-course)]\n\t\t\t\t\t\t\t\t\t   (if match?\n\t\t\t\t\t\t\t\t\t\t (swap! meetings #(conj [(:instructor course-to-match) (:instructor current-course)]))\n\t\t\t\t\t\t\t\t\t\t )))\n\t\t\t\t\t\t\t\tremaining)\n\t\t\t  test            (println @meetings)]\n\t\t  (recur\n\t\t\t(first remaining)\n\t\t\t(rest remaining)))\n\t\tmeetings))))&quot;, :offset 583, :ns &quot;course-listing.task3&quot;} {:command &quot;(defn find-instructor-meetings [courses]\n  (let [meetings (atom [])]\n\t(loop [course    (first courses)\n\t\t   remaining (rest courses)]\n\t  (if-not (empty? remaining)\n\t\t(let [course-to-match course\n\t\t\t  matched         (map (fn [current-course]\n\t\t\t\t\t\t\t\t\t (let [match? (compare-instructors course-to-match current-course)]\n\t\t\t\t\t\t\t\t\t   (if match?\n\t\t\t\t\t\t\t\t\t\t (swap! meetings (conj [(:instructor course-to-match) (:instructor current-course)]))\n\t\t\t\t\t\t\t\t\t\t )))\n\t\t\t\t\t\t\t\tremaining)\n\t\t\t  test            (println @meetings)]\n\t\t  (recur\n\t\t\t(first remaining)\n\t\t\t(rest remaining)))\n\t\tmeetings))))&quot;, :offset 582, :ns &quot;course-listing.task3&quot;} {:command &quot;(defn find-instructor-meetings [courses]\n  (let [meetings (atom [])]\n\t(loop [course    (first courses)\n\t\t   remaining (rest courses)]\n\t  (if-not (empty? remaining)\n\t\t(let [course-to-match course\n\t\t\t  matched         (map (fn [current-course]\n\t\t\t\t\t\t\t\t\t (let [match? (compare-instructors course-to-match current-course)]\n\t\t\t\t\t\t\t\t\t   (if match?\n\t\t\t\t\t\t\t\t\t\t (swap! meetings conj [(:instructor course-to-match) (:instructor current-course)])\n\t\t\t\t\t\t\t\t\t\t )))\n\t\t\t\t\t\t\t\tremaining)\n\t\t\t  test            (println @meetings)]\n\t\t  (recur\n\t\t\t(first remaining)\n\t\t\t(rest remaining)))\n\t\tmeetings))))&quot;, :offset 580, :ns &quot;course-listing.task3&quot;} {:command &quot;(defn find-instructor-meetings [courses]\n  (let [meetings (atom [])]\n\t(loop [course    (first courses)\n\t\t   remaining (rest courses)]\n\t  (if-not (empty? remaining)\n\t\t(let [course-to-match course\n\t\t\t  matched         (map (fn [current-course]\n\t\t\t\t\t\t\t\t\t (let [match? (compare-instructors course-to-match current-course)]\n\t\t\t\t\t\t\t\t\t   (if match?\n\t\t\t\t\t\t\t\t\t\t (swap! meetings conj [(:instructor course-to-match) (:instructor current-course)])\n\t\t\t\t\t\t\t\t\t\t )))\n\t\t\t\t\t\t\t\tremaining)\n\t\t\t  test            (println @meetings)]\n\t\t  (recur\n\t\t\t(first remaining)\n\t\t\t(rest remaining)))\n\t\t@meetings))))&quot;, :offset 581, :ns &quot;course-listing.task3&quot;} {:command &quot;(def meetings (atom []))&quot;, :offset 24, :ns &quot;course-listing.task3&quot;} {:command &quot;(def meetings (atom ()))&quot;, :offset 24, :ns &quot;course-listing.task3&quot;} {:command &quot;(defn find-instructor-meetings [courses]\n  (loop [course    (first courses)\n\t\t remaining (rest courses)]\n\t(if-not (empty? remaining)\n\t  (let [course-to-match course\n\t\t\tmatched         (map (fn [current-course]\n\t\t\t\t\t\t\t\t   (let [match? (compare-instructors course-to-match current-course)]\n\t\t\t\t\t\t\t\t\t (if match?\n\t\t\t\t\t\t\t\t\t   (swap! meetings conj [(:instructor course-to-match) (:instructor current-course)])\n\t\t\t\t\t\t\t\t\t   )))\n\t\t\t\t\t\t\t  remaining)\n\t\t\ttest            (println @meetings)]\n\t\t(recur\n\t\t  (first remaining)\n\t\t  (rest remaining)))\n\t  @meetings)))&quot;, :offset 549, :ns &quot;course-listing.task3&quot;} {:command &quot;(count first-thousand)&quot;, :offset 22, :ns &quot;course-listing.task3&quot;} {:command &quot;(defn find-instructor-meetings [courses]\n  (loop [course    (first courses)\n\t\t remaining (rest courses)]\n\t(if-not (empty? remaining)\n\t  (let [course-to-match course\n\t\t\tmatched         (mapv (fn [current-course]\n\t\t\t\t\t\t\t\t   (let [match? (compare-instructors course-to-match current-course)]\n\t\t\t\t\t\t\t\t\t (if match?\n\t\t\t\t\t\t\t\t\t   (swap! meetings conj [(:instructor course-to-match) (:instructor current-course)])\n\t\t\t\t\t\t\t\t\t   )))\n\t\t\t\t\t\t\t  remaining)\n\t\t\ttest            (println @meetings)]\n\t\t(recur\n\t\t  (first remaining)\n\t\t  (rest remaining)))\n\t  @meetings)))&quot;, :offset 550, :ns &quot;course-listing.task3&quot;} {:command &quot;(reset! meetings)&quot;, :offset 17, :ns &quot;course-listing.task3&quot;} {:command &quot;(reset! @meetings)&quot;, :offset 18, :ns &quot;course-listing.task3&quot;} {:command &quot;(defn find-instructor-meetings [courses]\n  (loop [course    (first courses)\n\t\t remaining (rest courses)\n\t\t my-meetings []]\n\t(if-not (empty? remaining)\n\t  (let [course-to-match course\n\t\t\tcurrent-meetings []\n\t\t\tmatched         (pmap (fn [current-course]\n\t\t\t\t\t\t\t\t   (let [match? (compare-instructors course-to-match current-course)]\n\t\t\t\t\t\t\t\t\t (if match?\n\t\t\t\t\t\t\t\t\t   (conj current-meetings [(:instructor course-to-match) (:instructor current-course)])\n\t\t\t\t\t\t\t\t\t   ;(swap! meetings conj [(:instructor course-to-match) (:instructor current-course)])\n\t\t\t\t\t\t\t\t\t   )))\n\t\t\t\t\t\t\t  remaining)\n\t\t\ttest            (println current-meetings)]\n\t\t(recur\n\t\t  (first remaining)\n\t\t  (rest remaining)\n\t\t  (if (empty? current-meetings)\n\t\t\tmy-meetings\n\t\t\t(into my-meetings current-meetings))))\n\t  my-meetings)))&quot;, :offset 787, :ns &quot;course-listing.task3&quot;} {:command &quot;(find-instructor-meetings first-thousand)&quot;, :offset 41, :ns &quot;course-listing.task3&quot;} {:command &quot;(defn find-instructor-meetings [courses]\n  (loop [course    (first courses)\n\t\t remaining (rest courses)]\n\t(if-not (empty? remaining)\n\t  (let [course-to-match course\n\t\t\tmatched         (pmap (fn [current-course]\n\t\t\t\t\t\t\t\t   (let [match? (compare-instructors course-to-match current-course)]\n\t\t\t\t\t\t\t\t\t (if match?\n\t\t\t\t\t\t\t\t\t   (swap! meetings conj [(:instructor course-to-match) (:instructor current-course)])\n\t\t\t\t\t\t\t\t\t   )))\n\t\t\t\t\t\t\t  remaining)\n\t\t\ttest            (println @meetings)]\n\t\t(recur\n\t\t  (first remaining)\n\t\t  (rest remaining)))\n\t  @meetings)))&quot;, :offset 550, :ns &quot;course-listing.task3&quot;} {:command &quot;(defn find-instructor-meetings [courses]\n  (loop [course    (first courses)\n\t\t remaining (rest courses)]\n\t(if-not (empty? remaining)\n\t  (let [course-to-match course\n\t\t\tmatched         (pmap (fn [current-course]\n\t\t\t\t\t\t\t\t   (let [match? (compare-instructors course-to-match current-course)]\n\t\t\t\t\t\t\t\t\t (if match?\n\t\t\t\t\t\t\t\t\t   (swap! meetings conj [(:instructor course-to-match) (:instructor current-course)])\n\t\t\t\t\t\t\t\t\t   )))\n\t\t\t\t\t\t\t  remaining)]\n\t\t(recur\n\t\t  (first remaining)\n\t\t  (rest remaining)))\n\t  @meetings)))&quot;, :offset 511, :ns &quot;course-listing.task3&quot;} {:command &quot;(time (find-instructor-meetings filtered-courses))&quot;, :offset 50, :ns &quot;course-listing.task3&quot;} {:command &quot;(reset! meetings [])&quot;, :offset 20, :ns &quot;course-listing.task3&quot;} {:command &quot;(time (get-top-instructors (find-instructor-meetings filtered-courses)))&quot;, :offset 72, :ns &quot;course-listing.task3&quot;} {:command &quot;(def list-f (apply '() filtered-courses))&quot;, :offset 41, :ns &quot;course-listing.task3&quot;} {:command &quot;(def list-f (into '() filtered-courses))&quot;, :offset 40, :ns &quot;course-listing.task3&quot;} {:command &quot;(first list-f)&quot;, :offset 14, :ns &quot;course-listing.task3&quot;} {:command &quot;(defn find-instructor-meetings [courses]\n  (loop [course    (first courses)\n\t\t remaining (rest courses)\n\t\t meetings  []]\n\t(if-not (empty? remaining)\n\t  (let [course-to-match course\n\t\t\tmatched (reduce (fn [matched-instructors current-course]\n\t\t\t\t\t\t\t  (let [match? (compare-instructors course-to-match current-course)]\n\t\t\t\t\t\t\t\t(if match?\n\t\t\t\t\t\t\t\t  (conj matched-instructors [(:instructor course-to-match) (:instructor current-course)])\n\t\t\t\t\t\t\t\t  matched-instructors)))\n\t\t\t\t\t  [] remaining)]\n\t\t(recur\n\t\t  (first remaining)\n\t\t  (rest remaining)\n\t\t  (if (empty? matched)\n\t\t\tmeetings\n\t\t\t(into meetings matched))))\n\t  meetings)))&quot;, :offset 622, :ns &quot;course-listing.task3&quot;} {:command &quot;(defn find-instructor-meetings [courses]\n  (loop [course    (first courses)\n\t\t remaining (rest courses)\n\t\t meetings  []]\n\t(if-not (empty? remaining)\n\t  (let [course-to-match course\n\t\t\tmatched (reduce #(check-for-matches %1 %2 course) [] remaining)]\n\t\t(recur\n\t\t  (first remaining)\n\t\t  (rest remaining)\n\t\t  (if (empty? matched)\n\t\t\tmeetings\n\t\t\t(into meetings matched))))\n\t  meetings)))&quot;, :offset 382, :ns &quot;course-listing.task3&quot;} {:command &quot;(time (get-top-instructors (find-instructor-meetings list-f)))&quot;, :offset 62, :ns &quot;course-listing.task3&quot;} {:command &quot;(defn find-instructor-meetings [courses]\n  (loop [course    (first courses)\n\t\t remaining (rest courses)\n\t\t meetings  []]\n\t(if-not (empty? remaining)\n\t  (let [matched (reduce #(check-for-matches %1 %2 course) [] remaining)]\n\t\t(recur\n\t\t  (first remaining)\n\t\t  (rest remaining)\n\t\t  (if (empty? matched)\n\t\t\tmeetings\n\t\t\t(into meetings matched))))\n\t  meetings)))&quot;, :offset 356, :ns &quot;course-listing.task3&quot;} {:command &quot;(defn check-for-matches [matched-instructors current-course course-to-match]\n  (let [match? (compare-instructors course-to-match current-course)]\n\t(if match?\n\t  (conj matched-instructors [(:instructor course-to-match) (:instructor current-course)])\n\t  matched-instructors)))&quot;, :offset 274, :ns &quot;course-listing.task3&quot;} {:command &quot;(time (get-top-instructors (find-instructor-meetings first-thousand)))&quot;, :offset 70, :ns &quot;course-listing.task3&quot;} {:command &quot;(defn main [course-listing-file]\n  (let [file-contents (slurp course-listing-file)]\n\t(println \&quot;Finding pairs of instructors...\&quot;)\n\t(-&gt; file-contents\n\t  (create-map-from-file)\n\t  (filter-invalid-instructors)\n\t  (find-instructor-meetings)\n\t  (get-top-instructors)\n\t  (print-result))))&quot;, :offset 281, :ns &quot;course-listing.task3&quot;} {:command &quot;(defn- aggregate-top-instructors [courses]\n  (-&gt; courses\n\t(reduce #(update % (%2 :instructor) (fnil conj #{}) (%2 :schtype)) {})\n\t(reduce-kv #(assoc %1 %2 (count %3)) {})))&quot;, :offset 172, :ns &quot;course-listing.task2&quot;}], :remote []}}</component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Clojure REPL.REPL for course-listing">
+    <configuration name="REPL for course-listing" type="ClojureREPL" factoryName="Local">
+      <setting name="replType" value="1" />
+      <module name="course-listing" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="$PROJECT_DIR$" />
+      <setting name="profiles" value="" />
+    </configuration>
+    <configuration name="REPL" type="ClojureREPL" factoryName="Local">
+      <setting name="replType" value="0" />
+      <module name="" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="" />
+      <setting name="profiles" value="" />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="ClojureScriptRunConfiguration" factoryName="Clojure Script">
+      <module name="course-listing" />
+      <setting name="path" value="" />
+      <setting name="namespace" value="" />
+      <setting name="useLein" value="false" />
+      <setting name="profiles" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Local">
+      <setting name="replType" value="0" />
+      <module name="" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="" />
+      <setting name="profiles" value="" />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="core" type="ClojureScriptRunConfiguration" factoryName="Clojure Script" temporary="true">
+      <module name="course-listing" />
+      <setting name="path" value="$PROJECT_DIR$/src/course_listing/core.clj" />
+      <setting name="namespace" value="" />
+      <setting name="useLein" value="false" />
+      <setting name="profiles" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="$PROJECT_DIR$/src/course_listing" />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Clojure REPL.REPL" />
+      <item index="1" class="java.lang.String" itemvalue="Clojure REPL.REPL for course-listing" />
+      <item index="2" class="java.lang.String" itemvalue="Clojure Application.core" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Clojure Application.core" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e571d35-e618-4d39-b3ed-011eb1f32ac6" name="Default" comment="" />
+      <created>1509990164320</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1509990164320</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="2560" height="1413" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3997017" sideWeight="0.5046875" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="REPL" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39746457" sideWeight="0.68242186" order="12" side_tool="true" content_ui="tabs" />
+      <window_info id="Leiningen" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39746457" sideWeight="0.31757814" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960477" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960477" sideWeight="0.49765626" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960477" sideWeight="0.496875" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.49565217" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5043478" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/clojure/data.csv/0.1.4/data.csv-0.1.4.jar!/clojure/data/csv.clj</url>
+          <line>23</line>
+          <properties />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="76" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/course-listing.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course-listing/project.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course-listing/src/course_listing/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/clojure/data.csv/0.1.4/data.csv-0.1.4.jar!/clojure/data/csv.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="87" column="21" lean-forward="false" selection-start-line="87" selection-start-column="21" selection-end-line="87" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/jdk/Contents/Home/jre/lib/rt.jar!/java/io/PrintWriter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4597">
+          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/clojure/clojure/1.8.0/clojure-1.8.0.jar!/clojure/lang/Var.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="190" column="0" lean-forward="false" selection-start-line="190" selection-start-column="0" selection-end-line="190" selection-end-column="0" />
+          <folding>
+            <element signature="e#5482#5483#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/jdk/Contents/Home/jre/lib/rt.jar!/java/net/PlainSocketImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="68" column="16" lean-forward="false" selection-start-line="68" selection-start-column="16" selection-end-line="68" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/course_listing/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="38" lean-forward="false" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/clojure/clojure/1.8.0/clojure-1.8.0.jar!/clojure/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="6916" column="6" lean-forward="false" selection-start-line="6916" selection-start-column="6" selection-end-line="6916" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/course_listing/csv_helper.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/course_listing/task1.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="23" lean-forward="true" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/course_listing/task2.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="8" lean-forward="false" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/course_listing/task3.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="82" column="8" lean-forward="false" selection-start-line="82" selection-start-column="8" selection-end-line="82" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>IDE SDK</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
